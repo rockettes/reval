@@ -1,0 +1,182 @@
+{
+  "method": "paired bootstrap B=10,000, Bonferroni k=15 (all six) and k=10 (five base systems, paper Table 10)",
+  "seed": 42,
+  "k_pairs": 15,
+  "pairs": [
+    {
+      "n": 350,
+      "delta": -1.2409,
+      "ci_lower": -1.3091,
+      "ci_upper": -1.1736,
+      "p": 0.0001,
+      "cohens_d": -1.9012,
+      "pair": "Ours_vs_GPT54",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": -0.8812,
+      "ci_lower": -0.9491,
+      "ci_upper": -0.8153,
+      "p": 0.0001,
+      "cohens_d": -1.3739,
+      "pair": "Ours_vs_GLM",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": -0.9846,
+      "ci_lower": -1.0487,
+      "ci_upper": -0.9195,
+      "p": 0.0001,
+      "cohens_d": -1.5639,
+      "pair": "Ours_vs_Gemini",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": -1.2064,
+      "ci_lower": -1.2744,
+      "ci_upper": -1.14,
+      "p": 0.0001,
+      "cohens_d": -1.8868,
+      "pair": "Ours_vs_Grok",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": -1.2584,
+      "ci_lower": -1.321,
+      "ci_upper": -1.195,
+      "p": 0.0001,
+      "cohens_d": -2.0487,
+      "pair": "Ours_vs_GemSearch",
+      "p_bonf": 0.0015,
+      "significant_05": true
+    },
+    {
+      "n": 350,
+      "delta": 0.3597,
+      "ci_lower": 0.3254,
+      "ci_upper": 0.3936,
+      "p": 0.0001,
+      "cohens_d": 1.0994,
+      "pair": "GPT54_vs_GLM",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": 0.2562,
+      "ci_lower": 0.2243,
+      "ci_upper": 0.2884,
+      "p": 0.0001,
+      "cohens_d": 0.8386,
+      "pair": "GPT54_vs_Gemini",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": 0.0345,
+      "ci_lower": 0.0019,
+      "ci_upper": 0.0663,
+      "p": 0.0386,
+      "cohens_d": 0.1121,
+      "pair": "GPT54_vs_Grok",
+      "p_bonf": 0.579,
+      "significant_05": false,
+      "p_bonf_base10": 0.386
+    },
+    {
+      "n": 350,
+      "delta": -0.0175,
+      "ci_lower": -0.0555,
+      "ci_upper": 0.0213,
+      "p": 0.3764,
+      "cohens_d": -0.0476,
+      "pair": "GPT54_vs_GemSearch",
+      "p_bonf": 1.0,
+      "significant_05": false
+    },
+    {
+      "n": 350,
+      "delta": -0.1035,
+      "ci_lower": -0.1324,
+      "ci_upper": -0.0749,
+      "p": 0.0001,
+      "cohens_d": -0.3772,
+      "pair": "GLM_vs_Gemini",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": -0.3252,
+      "ci_lower": -0.3584,
+      "ci_upper": -0.2933,
+      "p": 0.0001,
+      "cohens_d": -1.0436,
+      "pair": "GLM_vs_Grok",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": -0.3772,
+      "ci_lower": -0.417,
+      "ci_upper": -0.3395,
+      "p": 0.0001,
+      "cohens_d": -1.0067,
+      "pair": "GLM_vs_GemSearch",
+      "p_bonf": 0.0015,
+      "significant_05": true
+    },
+    {
+      "n": 350,
+      "delta": -0.2218,
+      "ci_lower": -0.2508,
+      "ci_upper": -0.1922,
+      "p": 0.0001,
+      "cohens_d": -0.8001,
+      "pair": "Gemini_vs_Grok",
+      "p_bonf": 0.0015,
+      "significant_05": true,
+      "p_bonf_base10": 0.001
+    },
+    {
+      "n": 350,
+      "delta": -0.2738,
+      "ci_lower": -0.3086,
+      "ci_upper": -0.2379,
+      "p": 0.0001,
+      "cohens_d": -0.8009,
+      "pair": "Gemini_vs_GemSearch",
+      "p_bonf": 0.0015,
+      "significant_05": true
+    },
+    {
+      "n": 350,
+      "delta": -0.052,
+      "ci_lower": -0.084,
+      "ci_upper": -0.021,
+      "p": 0.001,
+      "cohens_d": -0.1718,
+      "pair": "Grok_vs_GemSearch",
+      "p_bonf": 0.015,
+      "significant_05": true
+    }
+  ]
+}

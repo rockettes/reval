@@ -1,0 +1,56 @@
+{
+  "SYSTEM-R": {
+    "n_responses": 304,
+    "pearson_r": 0.158,
+    "spearman_rho": 0.134,
+    "mean_citverif": 4.0,
+    "mean_vca_pm1_per_response": 0.86
+  },
+  "GPT": {
+    "n_responses": 348,
+    "pearson_r": 0.109,
+    "spearman_rho": 0.101,
+    "mean_citverif": 4.92,
+    "mean_vca_pm1_per_response": 0.34
+  },
+  "GLM": {
+    "n_responses": 330,
+    "pearson_r": 0.139,
+    "spearman_rho": 0.124,
+    "mean_citverif": 4.36,
+    "mean_vca_pm1_per_response": 0.18
+  },
+  "Gemini": {
+    "n_responses": 349,
+    "pearson_r": 0.14,
+    "spearman_rho": 0.147,
+    "mean_citverif": 4.5,
+    "mean_vca_pm1_per_response": 0.67
+  },
+  "Grok": {
+    "n_responses": 349,
+    "pearson_r": 0.115,
+    "spearman_rho": 0.117,
+    "mean_citverif": 4.51,
+    "mean_vca_pm1_per_response": 0.55
+  },
+  "Gemini+S": {
+    "n_responses": 350,
+    "pearson_r": 0.074,
+    "spearman_rho": 0.15,
+    "mean_citverif": 4.68,
+    "mean_vca_pm1_per_response": 0.72
+  },
+  "GPT+S": {
+    "n_responses": 349,
+    "pearson_r": -0.004,
+    "spearman_rho": 0.053,
+    "mean_citverif": 4.7,
+    "mean_vca_pm1_per_response": 0.46
+  },
+  "pooled": {
+    "n_responses": 2379,
+    "pearson_r": -0.032,
+    "spearman_rho": 0.004
+  }
+}

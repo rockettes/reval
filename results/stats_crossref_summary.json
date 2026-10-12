@@ -1,0 +1,47 @@
+{
+  "v2_with_doi": {
+    "aggregate": {
+      "v1_minimal": {
+        "n_questions": 0,
+        "total_dois": 0,
+        "doi_density": {
+          "mean": 0,
+          "median": 0,
+          "std": 0,
+          "ci_95_lo": 0,
+          "ci_95_hi": 0
+        },
+        "vca_existence_pct": 0,
+        "hr_existence_pct": 0,
+        "vca_semantic_pct": 0,
+        "hr_real_pct": 0,
+        "coverage_verified_pct": 0,
+        "coverage_ci_95": [
+          0,
+          0
+        ]
+      },
+      "v2_with_doi": {
+        "n_questions": 0,
+        "total_dois": 0,
+        "doi_density": {
+          "mean": 0,
+          "median": 0,
+          "std": 0,
+          "ci_95_lo": 0,
+          "ci_95_hi": 0
+        },
+        "vca_existence_pct": 0,
+        "hr_existence_pct": 0,
+        "vca_semantic_pct": 0,
+        "hr_real_pct": 0,
+        "coverage_verified_pct": 0,
+        "coverage_ci_95": [
+          0,
+          0
+        ]
+      }
+    },
+    "paired_comparisons": {}
+  }
+}

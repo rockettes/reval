@@ -1,0 +1,12 @@
+{
+  "n": 300,
+  "annotators": 2,
+  "inter_annotator_kappa": 0.957,
+  "inter_annotator_agreement_pct": 98.7,
+  "human_vs_validator_kappa": 0.806,
+  "human_vs_validator_agreement_pct": 93.2,
+  "disagreements_human_human": 4,
+  "disagreements_consensus_vs_validator": 20,
+  "false_negatives": 20,
+  "false_positives": 0
+}

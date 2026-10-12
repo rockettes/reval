@@ -1,0 +1,52 @@
+{
+  "n_configs": 10000,
+  "seed": 42,
+  "pct_systemr_last": 100.0,
+  "pareto_dominance_strict": true,
+  "per_dimension_dominance": {
+    "SciCorrect": {
+      "ours": 3.5943,
+      "min_others": 4.395,
+      "min_other_gen": "GLM",
+      "strict_dominance": true
+    },
+    "CiteVerif": {
+      "ours": 3.8886,
+      "min_others": 4.3464,
+      "min_other_gen": "GLM",
+      "strict_dominance": true
+    },
+    "Specificity": {
+      "ours": 2.68,
+      "min_others": 3.5064,
+      "min_other_gen": "GLM",
+      "strict_dominance": true
+    },
+    "Completeness": {
+      "ours": 2.9406,
+      "min_others": 4.4436,
+      "min_other_gen": "GLM",
+      "strict_dominance": true
+    },
+    "Assertiveness": {
+      "ours": 3.684,
+      "min_others": 4.6871,
+      "min_other_gen": "GPT54",
+      "strict_dominance": true
+    },
+    "PracticalApplic": {
+      "ours": 2.5954,
+      "min_others": 3.7293,
+      "min_other_gen": "GLM",
+      "strict_dominance": true
+    }
+  },
+  "distribution_of_last_place": {
+    "Ours": 10000,
+    "GPT54": 0,
+    "GLM": 0,
+    "Gemini": 0,
+    "Grok": 0,
+    "GemSearch": 0
+  }
+}

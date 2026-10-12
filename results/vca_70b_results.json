@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "Ours": {
+      "total_cr_valid": 682,
+      "valid": 601,
+      "invalid": 81,
+      "vca_semantic_pct": 88.12
+    },
+    "GLM": {
+      "total_cr_valid": 516,
+      "valid": 177,
+      "invalid": 339,
+      "vca_semantic_pct": 34.3
+    },
+    "Gemini": {
+      "total_cr_valid": 615,
+      "valid": 480,
+      "invalid": 135,
+      "vca_semantic_pct": 78.05
+    },
+    "Grok": {
+      "total_cr_valid": 958,
+      "valid": 630,
+      "invalid": 328,
+      "vca_semantic_pct": 65.76
+    },
+    "GemSearch": {
+      "total_cr_valid": 992,
+      "valid": 757,
+      "invalid": 235,
+      "vca_semantic_pct": 76.31
+    },
+    "GPT54": {
+      "total_cr_valid": 879,
+      "valid": 466,
+      "invalid": 413,
+      "vca_semantic_pct": 53.01
+    }
+  },
+  "model": "llama-3.3-70b-versatile",
+  "temperature": 0.0
+}

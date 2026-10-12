@@ -1,0 +1,366 @@
+{
+  "v1_minimal": {
+    "aggregate": {
+      "Ours": {
+        "n_questions": 350,
+        "total_dois": 695,
+        "doi_density": {
+          "mean": 1.9857,
+          "median": 2.0,
+          "std": 1.1112,
+          "ci_95_lo": 1.8686,
+          "ci_95_hi": 2.1029
+        },
+        "vca_existence_pct": 98.5612,
+        "hr_existence_pct": 1.4388,
+        "vca_semantic_pct": 82.446,
+        "hr_real_pct": 4.0288,
+        "coverage_verified_pct": 80.2857,
+        "coverage_ci_95": [
+          76.0,
+          84.2857
+        ]
+      },
+      "GLM": {
+        "n_questions": 350,
+        "total_dois": 0,
+        "doi_density": {
+          "mean": 0,
+          "median": 0.0,
+          "std": 0.0,
+          "ci_95_lo": 0.0,
+          "ci_95_hi": 0.0
+        },
+        "vca_existence_pct": 0,
+        "hr_existence_pct": 0,
+        "vca_semantic_pct": 0,
+        "hr_real_pct": 0,
+        "coverage_verified_pct": 0.0,
+        "coverage_ci_95": [
+          0.0,
+          0.0
+        ]
+      },
+      "Gemini": {
+        "n_questions": 350,
+        "total_dois": 0,
+        "doi_density": {
+          "mean": 0,
+          "median": 0.0,
+          "std": 0.0,
+          "ci_95_lo": 0.0,
+          "ci_95_hi": 0.0
+        },
+        "vca_existence_pct": 0,
+        "hr_existence_pct": 0,
+        "vca_semantic_pct": 0,
+        "hr_real_pct": 0,
+        "coverage_verified_pct": 0.0,
+        "coverage_ci_95": [
+          0.0,
+          0.0
+        ]
+      },
+      "Grok": {
+        "n_questions": 350,
+        "total_dois": 1,
+        "doi_density": {
+          "mean": 0.0029,
+          "median": 0.0,
+          "std": 0.0535,
+          "ci_95_lo": 0.0,
+          "ci_95_hi": 0.0086
+        },
+        "vca_existence_pct": 0.0,
+        "hr_existence_pct": 100.0,
+        "vca_semantic_pct": 0.0,
+        "hr_real_pct": 0.0,
+        "coverage_verified_pct": 0.0,
+        "coverage_ci_95": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "paired_comparisons": {
+      "GLM": {
+        "coverage_verified": {
+          "n": 350,
+          "ours_mean": 0.8029,
+          "baseline_mean": 0,
+          "delta": 0.8029,
+          "delta_ci_95": [
+            0.76,
+            0.8429
+          ],
+          "cohens_d": 2.8499,
+          "cliffs_delta": 0.8029,
+          "wilcoxon_W": 0,
+          "p_value": 0.0,
+          "p_bonferroni": 0.0,
+          "significant_05": true
+        },
+        "doi_density": {
+          "n": 350,
+          "ours_mean": 1.9857,
+          "baseline_mean": 0,
+          "delta": 1.9857,
+          "delta_ci_95": [
+            1.8686,
+            2.1029
+          ],
+          "cohens_d": 2.5272,
+          "cliffs_delta": 0.8686,
+          "wilcoxon_W": 0,
+          "p_value": 0.0
+        }
+      },
+      "Gemini": {
+        "coverage_verified": {
+          "n": 350,
+          "ours_mean": 0.8029,
+          "baseline_mean": 0,
+          "delta": 0.8029,
+          "delta_ci_95": [
+            0.76,
+            0.8429
+          ],
+          "cohens_d": 2.8499,
+          "cliffs_delta": 0.8029,
+          "wilcoxon_W": 0,
+          "p_value": 0.0,
+          "p_bonferroni": 0.0,
+          "significant_05": true
+        },
+        "doi_density": {
+          "n": 350,
+          "ours_mean": 1.9857,
+          "baseline_mean": 0,
+          "delta": 1.9857,
+          "delta_ci_95": [
+            1.8714,
+            2.0971
+          ],
+          "cohens_d": 2.5272,
+          "cliffs_delta": 0.8686,
+          "wilcoxon_W": 0,
+          "p_value": 0.0
+        }
+      },
+      "Grok": {
+        "coverage_verified": {
+          "n": 350,
+          "ours_mean": 0.8029,
+          "baseline_mean": 0,
+          "delta": 0.8029,
+          "delta_ci_95": [
+            0.76,
+            0.8429
+          ],
+          "cohens_d": 2.8499,
+          "cliffs_delta": 0.8029,
+          "wilcoxon_W": 0,
+          "p_value": 0.0,
+          "p_bonferroni": 0.0,
+          "significant_05": true
+        },
+        "doi_density": {
+          "n": 350,
+          "ours_mean": 1.9857,
+          "baseline_mean": 0.0029,
+          "delta": 1.9829,
+          "delta_ci_95": [
+            1.8686,
+            2.1
+          ],
+          "cohens_d": 2.5207,
+          "cliffs_delta": 0.8678,
+          "wilcoxon_W": 0,
+          "p_value": 0.0
+        }
+      }
+    }
+  },
+  "v2_with_doi": {
+    "aggregate": {
+      "Ours": {
+        "n_questions": 350,
+        "total_dois": 695,
+        "doi_density": {
+          "mean": 1.9857,
+          "median": 2.0,
+          "std": 1.1112,
+          "ci_95_lo": 1.8686,
+          "ci_95_hi": 2.1029
+        },
+        "vca_existence_pct": 98.1295,
+        "hr_existence_pct": 1.8705,
+        "vca_semantic_pct": 82.1583,
+        "hr_real_pct": 3.8849,
+        "coverage_verified_pct": 79.7143,
+        "coverage_ci_95": [
+          75.4286,
+          83.7143
+        ]
+      },
+      "GLM": {
+        "n_questions": 350,
+        "total_dois": 1032,
+        "doi_density": {
+          "mean": 2.9486,
+          "median": 2.0,
+          "std": 3.2229,
+          "ci_95_lo": 2.6229,
+          "ci_95_hi": 3.2971
+        },
+        "vca_existence_pct": 50.0,
+        "hr_existence_pct": 50.0,
+        "vca_semantic_pct": 9.9806,
+        "hr_real_pct": 21.9961,
+        "coverage_verified_pct": 25.1429,
+        "coverage_ci_95": [
+          20.5714,
+          29.7143
+        ]
+      },
+      "Gemini": {
+        "n_questions": 350,
+        "total_dois": 725,
+        "doi_density": {
+          "mean": 2.0714,
+          "median": 2.0,
+          "std": 0.5168,
+          "ci_95_lo": 2.0171,
+          "ci_95_hi": 2.1257
+        },
+        "vca_existence_pct": 84.8276,
+        "hr_existence_pct": 15.1724,
+        "vca_semantic_pct": 1.2414,
+        "hr_real_pct": 0.4138,
+        "coverage_verified_pct": 1.4286,
+        "coverage_ci_95": [
+          0.2857,
+          2.8571
+        ]
+      },
+      "Grok": {
+        "n_questions": 350,
+        "total_dois": 1196,
+        "doi_density": {
+          "mean": 3.4171,
+          "median": 3.0,
+          "std": 1.3826,
+          "ci_95_lo": 3.2771,
+          "ci_95_hi": 3.5629
+        },
+        "vca_existence_pct": 80.1003,
+        "hr_existence_pct": 19.8997,
+        "vca_semantic_pct": 34.2809,
+        "hr_real_pct": 17.6421,
+        "coverage_verified_pct": 68.0,
+        "coverage_ci_95": [
+          63.1429,
+          72.8571
+        ]
+      }
+    },
+    "paired_comparisons": {
+      "GLM": {
+        "coverage_verified": {
+          "n": 350,
+          "ours_mean": 0.7971,
+          "baseline_mean": 0.2514,
+          "delta": 0.5457,
+          "delta_ci_95": [
+            0.4829,
+            0.6086
+          ],
+          "cohens_d": 1.3028,
+          "cliffs_delta": 0.5457,
+          "wilcoxon_W": 2052.0,
+          "p_value": 0.0,
+          "p_bonferroni": 0.0,
+          "significant_05": true
+        },
+        "doi_density": {
+          "n": 350,
+          "ours_mean": 1.9857,
+          "baseline_mean": 2.9486,
+          "delta": -0.9629,
+          "delta_ci_95": [
+            -1.32,
+            -0.6314
+          ],
+          "cohens_d": -0.3994,
+          "cliffs_delta": -0.1248,
+          "wilcoxon_W": 8995.5,
+          "p_value": 2e-06
+        }
+      },
+      "Gemini": {
+        "coverage_verified": {
+          "n": 350,
+          "ours_mean": 0.7971,
+          "baseline_mean": 0.0143,
+          "delta": 0.7829,
+          "delta_ci_95": [
+            0.7371,
+            0.8257
+          ],
+          "cohens_d": 2.6368,
+          "cliffs_delta": 0.7829,
+          "wilcoxon_W": 0,
+          "p_value": 0.0,
+          "p_bonferroni": 0.0,
+          "significant_05": true
+        },
+        "doi_density": {
+          "n": 350,
+          "ours_mean": 1.9857,
+          "baseline_mean": 2.0714,
+          "delta": -0.0857,
+          "delta_ci_95": [
+            -0.2057,
+            0.0371
+          ],
+          "cohens_d": -0.0989,
+          "cliffs_delta": -0.0086,
+          "wilcoxon_W": 10165.5,
+          "p_value": 0.140404
+        }
+      },
+      "Grok": {
+        "coverage_verified": {
+          "n": 350,
+          "ours_mean": 0.7971,
+          "baseline_mean": 0.68,
+          "delta": 0.1171,
+          "delta_ci_95": [
+            0.0514,
+            0.1829
+          ],
+          "cohens_d": 0.2686,
+          "cliffs_delta": 0.1171,
+          "wilcoxon_W": 3430.0,
+          "p_value": 0.002552,
+          "p_bonferroni": 0.007656,
+          "significant_05": true
+        },
+        "doi_density": {
+          "n": 350,
+          "ours_mean": 1.9857,
+          "baseline_mean": 3.4171,
+          "delta": -1.4314,
+          "delta_ci_95": [
+            -1.6029,
+            -1.2543
+          ],
+          "cohens_d": -1.1413,
+          "cliffs_delta": -0.5494,
+          "wilcoxon_W": 2587.0,
+          "p_value": 0.0
+        }
+      }
+    }
+  }
+}

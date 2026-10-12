@@ -1,0 +1,48 @@
+{
+  "GPT54S_forced": {
+    "n_dois": 1895,
+    "vca_strict_pct": 44.5,
+    "vca_strict_ci95": [
+      42.3,
+      46.7
+    ],
+    "vca_pm1_pct": 45.5,
+    "vca_pm1_ci95": [
+      43.3,
+      47.8
+    ],
+    "vca_pm1_by_type": {
+      "DIVERGENT": 44.3,
+      "POPULATION": 42.2,
+      "MULTI_HOP": 50.7,
+      "COMP": 39.7,
+      "TEMPORAL": 47.8,
+      "MECHANISM": 47.6,
+      "NUM": 44.4,
+      "ADV_OOS": 43.2
+    }
+  },
+  "GPT54S_auto": {
+    "n_dois": 1744,
+    "vca_strict_pct": 42.5,
+    "vca_strict_ci95": [
+      40.2,
+      44.8
+    ],
+    "vca_pm1_pct": 43.3,
+    "vca_pm1_ci95": [
+      40.9,
+      45.6
+    ],
+    "vca_pm1_by_type": {
+      "DIVERGENT": 45.6,
+      "POPULATION": 43.4,
+      "MULTI_HOP": 41.4,
+      "COMP": 46.9,
+      "TEMPORAL": 47.8,
+      "MECHANISM": 37.4,
+      "NUM": 46.6,
+      "ADV_OOS": 36.8
+    }
+  }
+}

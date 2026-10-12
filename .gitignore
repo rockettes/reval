@@ -1,0 +1,11 @@
+# Internal working material — must never reach the anonymous release
+.DS_Store
+__pycache__/
+*.pyc
+.env
+results/_*/
+scripts/_backup*/
+results/.backup*/
+scripts/.backup*/
+results/.crossref_cache.jsonl
+*_SECRET*

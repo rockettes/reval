@@ -1,0 +1,3146 @@
+[
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 1,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 8,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.8
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 15,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 3.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.1
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 29,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 22,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 3.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.15
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 43,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 36,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 50,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 57,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 3.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.4
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 64,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 71,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 78,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 85,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 99,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 92,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 106,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 2.0
+  },
+  "reval": 4.65
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 113,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 127,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 120,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 134,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.8
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 141,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 148,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 155,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.8
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 169,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 162,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 183,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 176,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 197,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 190,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.35
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 204,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 211,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 225,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.45
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 239,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.8
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 232,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 260,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 218,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 253,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 267,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 281,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 288,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 2.0
+  },
+  "reval": 4.65
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 246,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 295,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 302,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 309,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 330,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 323,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 274,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 344,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 316,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Atla",
+  "generator": "GemSearchRetest",
+  "qid": 337,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 1,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 15,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 8,
+  "error": "parse_fail",
+  "raw": "1.  **Analyze the Request:**\n    *   Role: Expert evaluator in exercise science and sports nutrition.\n    *   Task: Evaluate a given response about whether slow movement generates more hypertrophy than explosive movement.\n    *   Scoring: 6 dimensions (correcao_cientifica, verificab_citacoes, especi"
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 22,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 1.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 3.65
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 29,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 36,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 43,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 50,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 57,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 71,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 85,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 4.8
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 99,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 64,
+  "error": "parse_fail",
+  "raw": "1.  **Analyze the Request:**\n    *   Role: Expert evaluator in exercise science and sports nutrition.\n    *   Task: Evaluate a given response about \"responders vs. non-responders to training\".\n    *   Dimensions (6): correcao_cientifica, verificab_citacoes, especificidade, completude, assertividade,"
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 92,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 113,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "retest",
+  "qid": 78,
+  "error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions"
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 134,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 127,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 148,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 120,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "retest",
+  "qid": 106,
+  "error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions"
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 141,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 176,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 155,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 183,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 190,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 197,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 211,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "retest",
+  "qid": 162,
+  "error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions"
+ },
+ {
+  "judge": "GLM",
+  "generator": "retest",
+  "qid": 169,
+  "error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions"
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 218,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 225,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 232,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "retest",
+  "qid": 204,
+  "error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://router.huggingface.co/v1/chat/completions"
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 239,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 253,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 260,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 267,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 246,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 274,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 288,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.9
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 302,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 316,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 295,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 4.8
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 281,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 323,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 309,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 344,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 337,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 330,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 1.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 3.7
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 8,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 1,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 29,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 3.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 15,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 3.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.35
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 22,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 1.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 3.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 3.1
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 50,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 36,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.9
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 43,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 57,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.6
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 64,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 78,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.35
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 85,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 4.65
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 92,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 71,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 106,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 3.0,
+   "aplicacao_pratica": 2.0
+  },
+  "reval": 4.25
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 99,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 3.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 120,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 3.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.35
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 113,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 3.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.4
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 134,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.9
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 127,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 3.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.35
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 148,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 155,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 141,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.65
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 169,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 162,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 176,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 183,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 190,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 197,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 204,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 211,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.65
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 218,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 232,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.8
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 225,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 239,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 253,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 260,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 267,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.65
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 246,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.7
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 281,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.9
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 274,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 295,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 4.65
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 288,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 4.8
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 302,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 316,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.65
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 309,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 323,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.9
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 344,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 330,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 1.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 3.45
+ },
+ {
+  "judge": "Grok",
+  "generator": "GemSearchRetest",
+  "qid": 337,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.9
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 106,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.9
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 78,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.9
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 64,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 8,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 169,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 162,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GLM",
+  "generator": "GemSearchRetest",
+  "qid": 204,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 5.0
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 1,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 15,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 8,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 22,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 29,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 43,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 50,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 36,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 57,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 64,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 78,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 71,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 85,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 99,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 106,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 92,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 113,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 120,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 127,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 134,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 141,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 148,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 162,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 155,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 169,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 176,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 183,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 190,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 197,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 204,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 211,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 218,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 225,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 232,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 239,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 246,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 260,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 274,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 267,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 253,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 281,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 288,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 295,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 302,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 309,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 316,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 323,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 330,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 337,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "retest",
+  "qid": 344,
+  "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.openai.com/v1/chat/completions"
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 1,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 8,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 15,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.15
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 22,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 2.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 3.45
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 36,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 29,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.45
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 43,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 50,
+  "scores": {
+   "correcao_cientifica": 5.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.95
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 64,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.0
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 57,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.3
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 71,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.3
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 78,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 4.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 2.0
+  },
+  "reval": 3.75
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 85,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 4.4
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 92,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.6
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 106,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 4.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 3.85
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 99,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 4.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.2
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 113,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.25
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 120,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.2
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 134,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.3
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 127,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 141,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.6
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 148,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 2.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 3.6
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 155,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 2.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 3.45
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 162,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 169,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.6
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 176,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.05
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 183,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.6
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 190,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.3
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 197,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 3.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.05
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 204,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.1
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 218,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 3.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.05
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 211,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.45
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 232,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.3
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 225,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.4
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 239,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.35
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 246,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 253,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.25
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 260,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.6
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 274,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 267,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 3.0
+  },
+  "reval": 4.0
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 288,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 3.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 3.9
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 281,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 295,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 1.0
+  },
+  "reval": 4.4
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 302,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 309,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 316,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 4.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.3
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 323,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 5.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.75
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 337,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 5.0,
+   "aplicacao_pratica": 4.0
+  },
+  "reval": 4.55
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 330,
+  "scores": {
+   "correcao_cientifica": 3.0,
+   "verificab_citacoes": 2.0,
+   "especificidade": 5.0,
+   "completude": 3.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 2.0
+  },
+  "reval": 3.2
+ },
+ {
+  "judge": "GPT54",
+  "generator": "GemSearchRetest",
+  "qid": 344,
+  "scores": {
+   "correcao_cientifica": 4.0,
+   "verificab_citacoes": 5.0,
+   "especificidade": 5.0,
+   "completude": 4.0,
+   "assertividade": 4.0,
+   "aplicacao_pratica": 5.0
+  },
+  "reval": 4.5
+ }
+]

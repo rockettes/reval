@@ -1,0 +1,547 @@
+{
+  "summary": {
+    "Ours": {
+      "total_dois": 695,
+      "exist": 682,
+      "fabricated": 13,
+      "exist_pct": 98.1,
+      "fabr_pct": 1.9,
+      "vca_strict": 576,
+      "vca_strict_pct": 82.9,
+      "vca_lenient": 600,
+      "vca_lenient_pct": 86.3,
+      "seventy_b_valid": 601,
+      "year_exact": 576,
+      "year_drift": 7,
+      "year_unknown": 18
+    },
+    "GPT54": {
+      "total_dois": 1231,
+      "exist": 879,
+      "fabricated": 352,
+      "exist_pct": 71.4,
+      "fabr_pct": 28.6,
+      "vca_strict": 350,
+      "vca_strict_pct": 28.4,
+      "vca_lenient": 420,
+      "vca_lenient_pct": 34.1,
+      "seventy_b_valid": 430,
+      "year_exact": 350,
+      "year_drift": 34,
+      "year_unknown": 46
+    },
+    "Gemini": {
+      "total_dois": 725,
+      "exist": 615,
+      "fabricated": 110,
+      "exist_pct": 84.8,
+      "fabr_pct": 15.2,
+      "vca_strict": 443,
+      "vca_strict_pct": 61.1,
+      "vca_lenient": 477,
+      "vca_lenient_pct": 65.8,
+      "seventy_b_valid": 480,
+      "year_exact": 443,
+      "year_drift": 14,
+      "year_unknown": 23
+    },
+    "GemSearch": {
+      "total_dois": 1076,
+      "exist": 992,
+      "fabricated": 84,
+      "exist_pct": 92.2,
+      "fabr_pct": 7.8,
+      "vca_strict": 685,
+      "vca_strict_pct": 63.7,
+      "vca_lenient": 755,
+      "vca_lenient_pct": 70.2,
+      "seventy_b_valid": 757,
+      "year_exact": 685,
+      "year_drift": 72,
+      "year_unknown": 0
+    },
+    "Grok": {
+      "total_dois": 1196,
+      "exist": 958,
+      "fabricated": 238,
+      "exist_pct": 80.1,
+      "fabr_pct": 19.9,
+      "vca_strict": 541,
+      "vca_strict_pct": 45.2,
+      "vca_lenient": 627,
+      "vca_lenient_pct": 52.4,
+      "seventy_b_valid": 630,
+      "year_exact": 541,
+      "year_drift": 11,
+      "year_unknown": 78
+    },
+    "GLM": {
+      "total_dois": 1032,
+      "exist": 516,
+      "fabricated": 516,
+      "exist_pct": 50.0,
+      "fabr_pct": 50.0,
+      "vca_strict": 161,
+      "vca_strict_pct": 15.6,
+      "vca_lenient": 176,
+      "vca_lenient_pct": 17.1,
+      "seventy_b_valid": 177,
+      "year_exact": 161,
+      "year_drift": 8,
+      "year_unknown": 8
+    }
+  },
+  "by_type": {
+    "Ours": {
+      "DIVERGENT": {
+        "total_dois": 150,
+        "exist": 147,
+        "fabricated": 3,
+        "vca_strict": 125,
+        "vca_strict_pct": 83.3,
+        "vca_lenient": 133,
+        "vca_lenient_pct": 88.7
+      },
+      "POPULATION": {
+        "total_dois": 154,
+        "exist": 153,
+        "fabricated": 1,
+        "vca_strict": 116,
+        "vca_strict_pct": 75.3,
+        "vca_lenient": 126,
+        "vca_lenient_pct": 81.8
+      },
+      "MULTI_HOP": {
+        "total_dois": 134,
+        "exist": 131,
+        "fabricated": 3,
+        "vca_strict": 112,
+        "vca_strict_pct": 83.6,
+        "vca_lenient": 115,
+        "vca_lenient_pct": 85.8
+      },
+      "COMP": {
+        "total_dois": 60,
+        "exist": 59,
+        "fabricated": 1,
+        "vca_strict": 44,
+        "vca_strict_pct": 73.3,
+        "vca_lenient": 47,
+        "vca_lenient_pct": 78.3
+      },
+      "TEMPORAL": {
+        "total_dois": 69,
+        "exist": 65,
+        "fabricated": 4,
+        "vca_strict": 62,
+        "vca_strict_pct": 89.9,
+        "vca_lenient": 62,
+        "vca_lenient_pct": 89.9
+      },
+      "MECHANISM": {
+        "total_dois": 53,
+        "exist": 53,
+        "fabricated": 0,
+        "vca_strict": 46,
+        "vca_strict_pct": 86.8,
+        "vca_lenient": 46,
+        "vca_lenient_pct": 86.8
+      },
+      "NUM": {
+        "total_dois": 47,
+        "exist": 47,
+        "fabricated": 0,
+        "vca_strict": 44,
+        "vca_strict_pct": 93.6,
+        "vca_lenient": 44,
+        "vca_lenient_pct": 93.6
+      },
+      "ADV_OOS": {
+        "total_dois": 28,
+        "exist": 27,
+        "fabricated": 1,
+        "vca_strict": 27,
+        "vca_strict_pct": 96.4,
+        "vca_lenient": 27,
+        "vca_lenient_pct": 96.4
+      }
+    },
+    "GPT54": {
+      "DIVERGENT": {
+        "total_dois": 241,
+        "exist": 154,
+        "fabricated": 87,
+        "vca_strict": 53,
+        "vca_strict_pct": 22.0,
+        "vca_lenient": 70,
+        "vca_lenient_pct": 29.0
+      },
+      "POPULATION": {
+        "total_dois": 245,
+        "exist": 182,
+        "fabricated": 63,
+        "vca_strict": 72,
+        "vca_strict_pct": 29.4,
+        "vca_lenient": 87,
+        "vca_lenient_pct": 35.5
+      },
+      "MULTI_HOP": {
+        "total_dois": 272,
+        "exist": 209,
+        "fabricated": 63,
+        "vca_strict": 102,
+        "vca_strict_pct": 37.5,
+        "vca_lenient": 119,
+        "vca_lenient_pct": 43.8
+      },
+      "COMP": {
+        "total_dois": 104,
+        "exist": 64,
+        "fabricated": 40,
+        "vca_strict": 24,
+        "vca_strict_pct": 23.1,
+        "vca_lenient": 30,
+        "vca_lenient_pct": 28.8
+      },
+      "TEMPORAL": {
+        "total_dois": 109,
+        "exist": 74,
+        "fabricated": 35,
+        "vca_strict": 31,
+        "vca_strict_pct": 28.4,
+        "vca_lenient": 35,
+        "vca_lenient_pct": 32.1
+      },
+      "MECHANISM": {
+        "total_dois": 98,
+        "exist": 62,
+        "fabricated": 36,
+        "vca_strict": 31,
+        "vca_strict_pct": 31.6,
+        "vca_lenient": 36,
+        "vca_lenient_pct": 36.7
+      },
+      "NUM": {
+        "total_dois": 84,
+        "exist": 68,
+        "fabricated": 16,
+        "vca_strict": 36,
+        "vca_strict_pct": 42.9,
+        "vca_lenient": 42,
+        "vca_lenient_pct": 50.0
+      },
+      "ADV_OOS": {
+        "total_dois": 78,
+        "exist": 66,
+        "fabricated": 12,
+        "vca_strict": 1,
+        "vca_strict_pct": 1.3,
+        "vca_lenient": 1,
+        "vca_lenient_pct": 1.3
+      }
+    },
+    "Gemini": {
+      "DIVERGENT": {
+        "total_dois": 140,
+        "exist": 116,
+        "fabricated": 24,
+        "vca_strict": 82,
+        "vca_strict_pct": 58.6,
+        "vca_lenient": 90,
+        "vca_lenient_pct": 64.3
+      },
+      "POPULATION": {
+        "total_dois": 143,
+        "exist": 125,
+        "fabricated": 18,
+        "vca_strict": 86,
+        "vca_strict_pct": 60.1,
+        "vca_lenient": 97,
+        "vca_lenient_pct": 67.8
+      },
+      "MULTI_HOP": {
+        "total_dois": 156,
+        "exist": 133,
+        "fabricated": 23,
+        "vca_strict": 91,
+        "vca_strict_pct": 58.3,
+        "vca_lenient": 94,
+        "vca_lenient_pct": 60.3
+      },
+      "COMP": {
+        "total_dois": 63,
+        "exist": 52,
+        "fabricated": 11,
+        "vca_strict": 38,
+        "vca_strict_pct": 60.3,
+        "vca_lenient": 42,
+        "vca_lenient_pct": 66.7
+      },
+      "TEMPORAL": {
+        "total_dois": 66,
+        "exist": 59,
+        "fabricated": 7,
+        "vca_strict": 45,
+        "vca_strict_pct": 68.2,
+        "vca_lenient": 48,
+        "vca_lenient_pct": 72.7
+      },
+      "MECHANISM": {
+        "total_dois": 56,
+        "exist": 38,
+        "fabricated": 18,
+        "vca_strict": 31,
+        "vca_strict_pct": 55.4,
+        "vca_lenient": 32,
+        "vca_lenient_pct": 57.1
+      },
+      "NUM": {
+        "total_dois": 52,
+        "exist": 48,
+        "fabricated": 4,
+        "vca_strict": 36,
+        "vca_strict_pct": 69.2,
+        "vca_lenient": 39,
+        "vca_lenient_pct": 75.0
+      },
+      "ADV_OOS": {
+        "total_dois": 49,
+        "exist": 44,
+        "fabricated": 5,
+        "vca_strict": 34,
+        "vca_strict_pct": 69.4,
+        "vca_lenient": 35,
+        "vca_lenient_pct": 71.4
+      }
+    },
+    "GemSearch": {
+      "DIVERGENT": {
+        "total_dois": 207,
+        "exist": 193,
+        "fabricated": 14,
+        "vca_strict": 163,
+        "vca_strict_pct": 78.7,
+        "vca_lenient": 165,
+        "vca_lenient_pct": 79.7
+      },
+      "POPULATION": {
+        "total_dois": 214,
+        "exist": 195,
+        "fabricated": 19,
+        "vca_strict": 137,
+        "vca_strict_pct": 64.0,
+        "vca_lenient": 150,
+        "vca_lenient_pct": 70.1
+      },
+      "MULTI_HOP": {
+        "total_dois": 252,
+        "exist": 233,
+        "fabricated": 19,
+        "vca_strict": 128,
+        "vca_strict_pct": 50.8,
+        "vca_lenient": 151,
+        "vca_lenient_pct": 59.9
+      },
+      "COMP": {
+        "total_dois": 89,
+        "exist": 84,
+        "fabricated": 5,
+        "vca_strict": 63,
+        "vca_strict_pct": 70.8,
+        "vca_lenient": 68,
+        "vca_lenient_pct": 76.4
+      },
+      "TEMPORAL": {
+        "total_dois": 81,
+        "exist": 76,
+        "fabricated": 5,
+        "vca_strict": 50,
+        "vca_strict_pct": 61.7,
+        "vca_lenient": 56,
+        "vca_lenient_pct": 69.1
+      },
+      "MECHANISM": {
+        "total_dois": 81,
+        "exist": 71,
+        "fabricated": 10,
+        "vca_strict": 51,
+        "vca_strict_pct": 63.0,
+        "vca_lenient": 57,
+        "vca_lenient_pct": 70.4
+      },
+      "NUM": {
+        "total_dois": 74,
+        "exist": 72,
+        "fabricated": 2,
+        "vca_strict": 41,
+        "vca_strict_pct": 55.4,
+        "vca_lenient": 49,
+        "vca_lenient_pct": 66.2
+      },
+      "ADV_OOS": {
+        "total_dois": 78,
+        "exist": 68,
+        "fabricated": 10,
+        "vca_strict": 52,
+        "vca_strict_pct": 66.7,
+        "vca_lenient": 59,
+        "vca_lenient_pct": 75.6
+      }
+    },
+    "Grok": {
+      "DIVERGENT": {
+        "total_dois": 286,
+        "exist": 225,
+        "fabricated": 61,
+        "vca_strict": 114,
+        "vca_strict_pct": 39.9,
+        "vca_lenient": 142,
+        "vca_lenient_pct": 49.7
+      },
+      "POPULATION": {
+        "total_dois": 255,
+        "exist": 203,
+        "fabricated": 52,
+        "vca_strict": 108,
+        "vca_strict_pct": 42.4,
+        "vca_lenient": 125,
+        "vca_lenient_pct": 49.0
+      },
+      "MULTI_HOP": {
+        "total_dois": 208,
+        "exist": 167,
+        "fabricated": 41,
+        "vca_strict": 119,
+        "vca_strict_pct": 57.2,
+        "vca_lenient": 125,
+        "vca_lenient_pct": 60.1
+      },
+      "COMP": {
+        "total_dois": 121,
+        "exist": 92,
+        "fabricated": 29,
+        "vca_strict": 39,
+        "vca_strict_pct": 32.2,
+        "vca_lenient": 45,
+        "vca_lenient_pct": 37.2
+      },
+      "TEMPORAL": {
+        "total_dois": 98,
+        "exist": 79,
+        "fabricated": 19,
+        "vca_strict": 44,
+        "vca_strict_pct": 44.9,
+        "vca_lenient": 55,
+        "vca_lenient_pct": 56.1
+      },
+      "MECHANISM": {
+        "total_dois": 75,
+        "exist": 62,
+        "fabricated": 13,
+        "vca_strict": 35,
+        "vca_strict_pct": 46.7,
+        "vca_lenient": 39,
+        "vca_lenient_pct": 52.0
+      },
+      "NUM": {
+        "total_dois": 82,
+        "exist": 71,
+        "fabricated": 11,
+        "vca_strict": 48,
+        "vca_strict_pct": 58.5,
+        "vca_lenient": 57,
+        "vca_lenient_pct": 69.5
+      },
+      "ADV_OOS": {
+        "total_dois": 71,
+        "exist": 59,
+        "fabricated": 12,
+        "vca_strict": 34,
+        "vca_strict_pct": 47.9,
+        "vca_lenient": 39,
+        "vca_lenient_pct": 54.9
+      }
+    },
+    "GLM": {
+      "DIVERGENT": {
+        "total_dois": 142,
+        "exist": 72,
+        "fabricated": 70,
+        "vca_strict": 18,
+        "vca_strict_pct": 12.7,
+        "vca_lenient": 22,
+        "vca_lenient_pct": 15.5
+      },
+      "POPULATION": {
+        "total_dois": 166,
+        "exist": 85,
+        "fabricated": 81,
+        "vca_strict": 22,
+        "vca_strict_pct": 13.3,
+        "vca_lenient": 26,
+        "vca_lenient_pct": 15.7
+      },
+      "MULTI_HOP": {
+        "total_dois": 197,
+        "exist": 97,
+        "fabricated": 100,
+        "vca_strict": 37,
+        "vca_strict_pct": 18.8,
+        "vca_lenient": 37,
+        "vca_lenient_pct": 18.8
+      },
+      "COMP": {
+        "total_dois": 65,
+        "exist": 37,
+        "fabricated": 28,
+        "vca_strict": 8,
+        "vca_strict_pct": 12.3,
+        "vca_lenient": 9,
+        "vca_lenient_pct": 13.8
+      },
+      "TEMPORAL": {
+        "total_dois": 81,
+        "exist": 53,
+        "fabricated": 28,
+        "vca_strict": 15,
+        "vca_strict_pct": 18.5,
+        "vca_lenient": 20,
+        "vca_lenient_pct": 24.7
+      },
+      "MECHANISM": {
+        "total_dois": 131,
+        "exist": 50,
+        "fabricated": 81,
+        "vca_strict": 16,
+        "vca_strict_pct": 12.2,
+        "vca_lenient": 16,
+        "vca_lenient_pct": 12.2
+      },
+      "NUM": {
+        "total_dois": 144,
+        "exist": 81,
+        "fabricated": 63,
+        "vca_strict": 32,
+        "vca_strict_pct": 22.2,
+        "vca_lenient": 32,
+        "vca_lenient_pct": 22.2
+      },
+      "ADV_OOS": {
+        "total_dois": 106,
+        "exist": 41,
+        "fabricated": 65,
+        "vca_strict": 13,
+        "vca_strict_pct": 12.3,
+        "vca_lenient": 14,
+        "vca_lenient_pct": 13.2
+      }
+    }
+  },
+  "methodology": {
+    "vca_strict": "DOI exists AND 70B=VALID AND cited_year == cr_year",
+    "vca_lenient": "DOI exists AND 70B=VALID AND |cited_year - cr_year| <= 1 (or year unknown)",
+    "denominator": "total DOIs cited (including fabricated)",
+    "author_validation": "Llama 3.3 70B (temperature 0.0)",
+    "api_calls": 0
+  }
+}

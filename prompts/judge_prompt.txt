@@ -1,0 +1,41 @@
+Você é um avaliador especialista de respostas científicas em ciência do exercício e nutrição esportiva.
+
+PERGUNTA:
+{question}
+
+RESPOSTA AVALIADA:
+{answer}
+
+Avalie a RESPOSTA acima nas 6 dimensões abaixo, atribuindo um score INTEIRO de 1 a 5 para cada uma:
+
+1. **correcao_cientifica** (1-5): Precisão factual
+   - 5 = totalmente correto, alinhado com evidência
+   - 3 = parcialmente correto, alguns erros
+   - 1 = incorreto ou contradiz a ciência
+
+2. **verificab_citacoes** (1-5): Fontes reais e verificáveis (DOI, ISBN, autor, ano)?
+   - 5 = todas as citações são reais e bem identificadas
+   - 3 = algumas citações verificáveis, outras vagas
+   - 1 = sem citações ou citações inventadas
+
+3. **especificidade** (1-5): Valores numéricos, doses, ranges, percentuais?
+   - 5 = altamente específica, com números e ranges
+   - 3 = parcialmente específica
+   - 1 = vaga, sem números
+
+4. **completude** (1-5): Cobre os pontos-chave da pergunta?
+   - 5 = cobre todos os aspectos relevantes
+   - 3 = cobre o básico, omite nuances
+   - 1 = superficial ou incompleta
+
+5. **assertividade** (1-5): Direta e não evasiva?
+   - 5 = direta, sem evasão
+   - 3 = parcialmente direta
+   - 1 = evasiva ou hedge demais
+
+6. **aplicacao_pratica** (1-5): Orientação prática acionável?
+   - 5 = inclui dicas práticas claras
+   - 3 = pouca orientação prática
+   - 1 = só teoria, sem aplicação
+
+Retorne APENAS um objeto JSON puro com as 6 chaves, sem markdown, sem explicação.

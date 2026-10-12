@@ -1,0 +1,88 @@
+{
+  "methodology": "committed refusal regex from 55_robustness_tests.py",
+  "signatures": {
+    "Ours": {
+      "word_median": 179,
+      "word_iqr_lo": 170,
+      "word_iqr_hi": 187,
+      "token_median": 232,
+      "dois_per_response_mean": 1.986,
+      "cit_per_100tok": 0.8721,
+      "hedge_frac_pct": 21.72,
+      "advoos_total": 25,
+      "advoos_refused": 5,
+      "advoos_refusal_pct": 20.0
+    },
+    "GPT54": {
+      "word_median": 188,
+      "word_iqr_lo": 178,
+      "word_iqr_hi": 201,
+      "token_median": 244,
+      "dois_per_response_mean": 3.517,
+      "cit_per_100tok": 1.4353,
+      "hedge_frac_pct": 10.64,
+      "advoos_total": 25,
+      "advoos_refused": 3,
+      "advoos_refusal_pct": 12.0
+    },
+    "GLM": {
+      "word_median": 147,
+      "word_iqr_lo": 137,
+      "word_iqr_hi": 162,
+      "token_median": 191,
+      "dois_per_response_mean": 2.949,
+      "cit_per_100tok": 0.9211,
+      "hedge_frac_pct": 3.98,
+      "advoos_total": 25,
+      "advoos_refused": 1,
+      "advoos_refusal_pct": 4.0
+    },
+    "Gemini": {
+      "word_median": 194,
+      "word_iqr_lo": 186,
+      "word_iqr_hi": 202,
+      "token_median": 252,
+      "dois_per_response_mean": 2.071,
+      "cit_per_100tok": 0.8243,
+      "hedge_frac_pct": 2.08,
+      "advoos_total": 25,
+      "advoos_refused": 1,
+      "advoos_refusal_pct": 4.0
+    },
+    "Grok": {
+      "word_median": 165,
+      "word_iqr_lo": 153,
+      "word_iqr_hi": 182,
+      "token_median": 214,
+      "dois_per_response_mean": 3.417,
+      "cit_per_100tok": 1.5712,
+      "hedge_frac_pct": 3.31,
+      "advoos_total": 25,
+      "advoos_refused": 3,
+      "advoos_refusal_pct": 12.0
+    },
+    "GemSearch": {
+      "word_median": 235,
+      "word_iqr_lo": 228,
+      "word_iqr_hi": 242,
+      "token_median": 305,
+      "dois_per_response_mean": 3.074,
+      "cit_per_100tok": 1.0099,
+      "hedge_frac_pct": 6.91,
+      "advoos_total": 25,
+      "advoos_refused": 4,
+      "advoos_refusal_pct": 16.0
+    },
+    "_gen_mean_4base": {
+      "word_median": 173.5,
+      "token_median": 225.25,
+      "dois_per_response_mean": 2.989,
+      "cit_per_100tok": 1.188,
+      "hedge_frac_pct": 5.003,
+      "advoos_refusal_pct": 8.0
+    },
+    "_gen_mean_3_sec510": {
+      "advoos_refusal_pct": 6.67
+    }
+  }
+}

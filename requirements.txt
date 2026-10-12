@@ -1,0 +1,5 @@
+# REVAL evaluation scripts dependencies
+requests>=2.31.0
+# No numpy/scipy/pandas required — all statistics computed with stdlib (statistics, math, random)
+# CrossRef API access requires only requests
+# Groq API (for VCA semantic judge) requires only requests

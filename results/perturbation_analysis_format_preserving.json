@@ -1,0 +1,188 @@
+{
+  "perturb_vs_original_REVAL": {
+    "n": 1382,
+    "mean_delta": -0.0656,
+    "sd": 0.2501,
+    "ci95": [
+      -0.0788,
+      -0.0524
+    ],
+    "ci90": [
+      -0.0767,
+      -0.0545
+    ],
+    "tost_margin": 0.15,
+    "tost_equivalent": true
+  },
+  "per_dimension": {
+    "correcao_cientifica": {
+      "n": 1382,
+      "mean_delta": -0.0492,
+      "sd": 0.3887,
+      "ci95": [
+        -0.0695,
+        -0.0282
+      ],
+      "ci90": [
+        -0.0658,
+        -0.0326
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": true
+    },
+    "verificab_citacoes": {
+      "n": 1382,
+      "mean_delta": -0.2106,
+      "sd": 0.7077,
+      "ci95": [
+        -0.2482,
+        -0.1729
+      ],
+      "ci90": [
+        -0.2417,
+        -0.1787
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": false
+    },
+    "especificidade": {
+      "n": 1382,
+      "mean_delta": -0.0087,
+      "sd": 0.2375,
+      "ci95": [
+        -0.021,
+        0.0036
+      ],
+      "ci90": [
+        -0.0195,
+        0.0014
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": true
+    },
+    "completude": {
+      "n": 1382,
+      "mean_delta": 0.0072,
+      "sd": 0.3183,
+      "ci95": [
+        -0.0094,
+        0.0239
+      ],
+      "ci90": [
+        -0.0065,
+        0.021
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": true
+    },
+    "assertividade": {
+      "n": 1382,
+      "mean_delta": 0.0043,
+      "sd": 0.2552,
+      "ci95": [
+        -0.0087,
+        0.0174
+      ],
+      "ci90": [
+        -0.0065,
+        0.0152
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": true
+    },
+    "aplicacao_pratica": {
+      "n": 1382,
+      "mean_delta": -0.008,
+      "sd": 0.3435,
+      "ci95": [
+        -0.026,
+        0.0101
+      ],
+      "ci90": [
+        -0.0232,
+        0.0072
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": true
+    }
+  },
+  "per_judge": {
+    "Atla": {
+      "n": 345,
+      "mean_delta": -0.0016,
+      "sd": 0.1682,
+      "ci95": [
+        -0.0191,
+        0.0164
+      ],
+      "ci90": [
+        -0.0164,
+        0.0133
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": true
+    },
+    "GLM": {
+      "n": 344,
+      "mean_delta": -0.016,
+      "sd": 0.2238,
+      "ci95": [
+        -0.0404,
+        0.0081
+      ],
+      "ci90": [
+        -0.0362,
+        0.0044
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": true
+    },
+    "Grok": {
+      "n": 348,
+      "mean_delta": -0.0501,
+      "sd": 0.2042,
+      "ci95": [
+        -0.0717,
+        -0.029
+      ],
+      "ci90": [
+        -0.0681,
+        -0.0323
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": true
+    },
+    "GPT54": {
+      "n": 345,
+      "mean_delta": -0.1945,
+      "sd": 0.3277,
+      "ci95": [
+        -0.229,
+        -0.1604
+      ],
+      "ci90": [
+        -0.2238,
+        -0.1659
+      ],
+      "tost_margin": 0.15,
+      "tost_equivalent": false
+    }
+  },
+  "retest_noise_floor_REVAL": {
+    "n": 200,
+    "mean_delta": -0.0045,
+    "sd": 0.1464,
+    "ci95": [
+      -0.025,
+      0.0152
+    ],
+    "ci90": [
+      -0.0217,
+      0.0123
+    ],
+    "tost_margin": 0.15,
+    "tost_equivalent": true
+  },
+  "n_dois_fabricated": 640,
+  "n_responses_perturbed": 348
+}

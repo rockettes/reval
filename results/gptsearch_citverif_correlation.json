@@ -1,0 +1,14 @@
+{
+  "GPT54S_forced": {
+    "n_responses": 349,
+    "pearson_r": -0.0045,
+    "mean_citverif": 4.7,
+    "mean_vca_pm1_per_response": 0.461
+  },
+  "GPT54S_auto": {
+    "n_responses": 348,
+    "pearson_r": -0.081,
+    "mean_citverif": 4.79,
+    "mean_vca_pm1_per_response": 0.435
+  }
+}

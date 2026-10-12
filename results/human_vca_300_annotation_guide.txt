@@ -1,0 +1,39 @@
+=======================================================================
+
+OBJETIVO
+--------
+Validar, se cada citação bate com os metadados reais do DOI no CrossRef.
+Dois anotadores independentes preenchem, para medir a concordância (kappa).
+
+ARQUIVOS (anonimos)
+-------------------
+- human_vca_annotator1_300.csv / human_vca_annotator2_300.csv : um arquivo por anotador, 300 itens cada.
+Anotar de forma INDEPENDENTE (cego; sem identificacao de qual sistema gerou).
+
+O QUE FAZER, LINHA A LINHA
+--------------------------
+Cada linha tem:
+  - doi                → o identificador citado
+  - crossref_author    → 1º autor REAL do DOI, segundo o CrossRef
+  - crossref_year      → ano REAL do DOI, segundo o CrossRef
+  - response_snippet   → o trecho da resposta que cita esse DOI (mostra o autor/ano
+                         que a IA ATRIBUIU à citação)
+  - human_verdict      → VOCÊ preenche
+
+Compare o autor/ano que aparece no snippet com o crossref_author / crossref_year:
+
+  VALID   → o autor citado no snippet é autor do paper (qualquer autor, não só o 1º),
+            E o ano bate com tolerância de ±1 ano.
+            (pequenas variações de grafia do sobrenome são OK)
+
+  INVALID → autor errado (não é autor daquele DOI), OU ano off por mais de 1 ano.
+
+Escreva exatamente  VALID  ou  INVALID  na coluna human_verdict (maiúsculas).
+
+EXEMPLOS
+--------
+- snippet cita "(Schoenfeld, 2017)" e crossref_author=Schoenfeld, crossref_year=2017 → VALID
+- snippet cita "(Schoenfeld, 2017)" mas crossref_author=Borgen, crossref_year=2018 → INVALID (autor errado)
+- snippet cita "(Morton, 2018)" e crossref_author=Morton, crossref_year=2019      → VALID (ano dentro de ±1)
+- snippet cita "(Simic, 2013)" mas crossref_author=Behm, crossref_year=2011        → INVALID (autor errado + ano >1)
+

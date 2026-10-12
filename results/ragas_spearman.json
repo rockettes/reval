@@ -1,0 +1,43 @@
+{
+  "method": "per-question Spearman correlation RAGAS vs REVAL",
+  "paper_claim": "|\u03c1|<0.13 for all",
+  "systems": {
+    "Ours": {
+      "rho": 0.1236,
+      "p_value": 0.02068854231647402,
+      "n": 350,
+      "within_paper_bound_013": true
+    },
+    "GPT54": {
+      "rho": -0.0977,
+      "p_value": 0.06797668323203522,
+      "n": 350,
+      "within_paper_bound_013": true
+    },
+    "GLM": {
+      "rho": -0.0589,
+      "p_value": 0.27154439477871656,
+      "n": 350,
+      "within_paper_bound_013": true
+    },
+    "Gemini": {
+      "rho": -0.0906,
+      "p_value": 0.09073529211929825,
+      "n": 350,
+      "within_paper_bound_013": true
+    },
+    "GemSearch": {
+      "rho": -0.0685,
+      "p_value": 0.20116577826539545,
+      "n": 350,
+      "within_paper_bound_013": true
+    },
+    "Grok": {
+      "rho": 0.0528,
+      "p_value": 0.32496454013475495,
+      "n": 350,
+      "within_paper_bound_013": true
+    }
+  },
+  "all_within_bound": true
+}

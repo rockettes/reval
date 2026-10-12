@@ -1,0 +1,125 @@
+{
+  "k_2": {
+    "n_subsets": 10,
+    "ours_last_count": 10,
+    "pct_ours_last": 100.0,
+    "all_subsets": null
+  },
+  "k_3": {
+    "n_subsets": 10,
+    "ours_last_count": 10,
+    "pct_ours_last": 100.0,
+    "all_subsets": null
+  },
+  "k_4": {
+    "n_subsets": 5,
+    "ours_last_count": 5,
+    "pct_ours_last": 100.0,
+    "all_subsets": [
+      {
+        "judges": [
+          "Atla",
+          "GPT54",
+          "GLM",
+          "Gemini"
+        ],
+        "ranking_low_to_high": [
+          "Ours",
+          "GLM",
+          "Gemini",
+          "Grok",
+          "GemSearch",
+          "GPT54"
+        ]
+      },
+      {
+        "judges": [
+          "Atla",
+          "GPT54",
+          "GLM",
+          "Grok"
+        ],
+        "ranking_low_to_high": [
+          "Ours",
+          "GLM",
+          "Gemini",
+          "Grok",
+          "GPT54",
+          "GemSearch"
+        ]
+      },
+      {
+        "judges": [
+          "Atla",
+          "GPT54",
+          "Gemini",
+          "Grok"
+        ],
+        "ranking_low_to_high": [
+          "Ours",
+          "GLM",
+          "Gemini",
+          "Grok",
+          "GemSearch",
+          "GPT54"
+        ]
+      },
+      {
+        "judges": [
+          "Atla",
+          "GLM",
+          "Gemini",
+          "Grok"
+        ],
+        "ranking_low_to_high": [
+          "Ours",
+          "GLM",
+          "Gemini",
+          "GPT54",
+          "GemSearch",
+          "Grok"
+        ]
+      },
+      {
+        "judges": [
+          "GPT54",
+          "GLM",
+          "Gemini",
+          "Grok"
+        ],
+        "ranking_low_to_high": [
+          "Ours",
+          "GLM",
+          "Gemini",
+          "Grok",
+          "GemSearch",
+          "GPT54"
+        ]
+      }
+    ]
+  },
+  "k_5": {
+    "n_subsets": 1,
+    "ours_last_count": 1,
+    "pct_ours_last": 100.0,
+    "all_subsets": [
+      {
+        "judges": [
+          "Atla",
+          "GPT54",
+          "GLM",
+          "Gemini",
+          "Grok"
+        ],
+        "ranking_low_to_high": [
+          "Ours",
+          "GLM",
+          "Gemini",
+          "Grok",
+          "GPT54",
+          "GemSearch"
+        ]
+      }
+    ]
+  }
+}

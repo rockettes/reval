@@ -1,0 +1,416 @@
+{
+  "n_scores_total": 8750,
+  "excluded_count": 0,
+  "gen_aggregates": {
+    "Ours": {
+      "n_evaluations": 1750,
+      "n_questions": 350,
+      "mean_reval": 3.346,
+      "median_reval": 3.355,
+      "std": 0.6544,
+      "ci_95_lo": 3.2772,
+      "ci_95_hi": 3.4122
+    },
+    "GPT54": {
+      "n_evaluations": 1400,
+      "n_questions": 350,
+      "mean_reval": 4.5869,
+      "median_reval": 4.7188,
+      "std": 0.3449,
+      "ci_95_lo": 4.5505,
+      "ci_95_hi": 4.6226
+    },
+    "GLM": {
+      "n_evaluations": 1400,
+      "n_questions": 350,
+      "mean_reval": 4.2271,
+      "median_reval": 4.2875,
+      "std": 0.4089,
+      "ci_95_lo": 4.1834,
+      "ci_95_hi": 4.2694
+    },
+    "Gemini": {
+      "n_evaluations": 1400,
+      "n_questions": 350,
+      "mean_reval": 4.3306,
+      "median_reval": 4.425,
+      "std": 0.3802,
+      "ci_95_lo": 4.29,
+      "ci_95_hi": 4.3707
+    },
+    "Grok": {
+      "n_evaluations": 1400,
+      "n_questions": 350,
+      "mean_reval": 4.5524,
+      "median_reval": 4.65,
+      "std": 0.3129,
+      "ci_95_lo": 4.5197,
+      "ci_95_hi": 4.5847
+    },
+    "GemSearch": {
+      "n_evaluations": 1400,
+      "n_questions": 350,
+      "mean_reval": 4.6044,
+      "median_reval": 4.65,
+      "std": 0.2435,
+      "ci_95_lo": 4.5787,
+      "ci_95_hi": 4.6292
+    }
+  },
+  "per_dim_means": {
+    "Atla": {
+      "Ours": {
+        "correcao_cientifica": 3.7629,
+        "verificab_citacoes": 4.4286,
+        "especificidade": 2.5571,
+        "completude": 3.8914,
+        "assertividade": 4.62,
+        "aplicacao_pratica": 3.1886,
+        "reval": 3.7644,
+        "n": 350
+      },
+      "GPT54": {
+        "correcao_cientifica": 4.8943,
+        "verificab_citacoes": 5.0,
+        "especificidade": 3.5714,
+        "completude": 4.8743,
+        "assertividade": 4.9971,
+        "aplicacao_pratica": 4.1257,
+        "reval": 4.625,
+        "n": 350
+      },
+      "GLM": {
+        "correcao_cientifica": 4.8057,
+        "verificab_citacoes": 4.9,
+        "especificidade": 3.38,
+        "completude": 4.8371,
+        "assertividade": 5.0,
+        "aplicacao_pratica": 3.7829,
+        "reval": 4.5171,
+        "n": 350
+      },
+      "Gemini": {
+        "correcao_cientifica": 4.8886,
+        "verificab_citacoes": 4.9286,
+        "especificidade": 3.4343,
+        "completude": 4.9257,
+        "assertividade": 5.0,
+        "aplicacao_pratica": 3.9486,
+        "reval": 4.5774,
+        "n": 350
+      },
+      "Grok": {
+        "correcao_cientifica": 4.9429,
+        "verificab_citacoes": 4.9829,
+        "especificidade": 3.9257,
+        "completude": 4.9371,
+        "assertividade": 4.9971,
+        "aplicacao_pratica": 4.1571,
+        "reval": 4.7147,
+        "n": 350
+      },
+      "GemSearch": {
+        "correcao_cientifica": 4.7057,
+        "verificab_citacoes": 4.9714,
+        "especificidade": 4.3143,
+        "completude": 4.9057,
+        "assertividade": 4.9971,
+        "aplicacao_pratica": 4.14,
+        "reval": 4.7247,
+        "n": 350
+      }
+    },
+    "GPT54": {
+      "Ours": {
+        "correcao_cientifica": 2.9629,
+        "verificab_citacoes": 3.1314,
+        "especificidade": 2.3229,
+        "completude": 2.4771,
+        "assertividade": 3.3457,
+        "aplicacao_pratica": 2.0057,
+        "reval": 2.7946,
+        "n": 350
+      },
+      "GLM": {
+        "correcao_cientifica": 3.6686,
+        "verificab_citacoes": 3.4714,
+        "especificidade": 3.3829,
+        "completude": 3.8286,
+        "assertividade": 4.9057,
+        "aplicacao_pratica": 3.2686,
+        "reval": 3.6899,
+        "n": 350
+      },
+      "Gemini": {
+        "correcao_cientifica": 3.8143,
+        "verificab_citacoes": 3.7171,
+        "especificidade": 3.3943,
+        "completude": 3.8571,
+        "assertividade": 4.92,
+        "aplicacao_pratica": 3.38,
+        "reval": 3.8013,
+        "n": 350
+      },
+      "Grok": {
+        "correcao_cientifica": 3.6971,
+        "verificab_citacoes": 3.5257,
+        "especificidade": 4.2657,
+        "completude": 3.9314,
+        "assertividade": 4.9114,
+        "aplicacao_pratica": 3.8086,
+        "reval": 3.9301,
+        "n": 350
+      },
+      "GemSearch": {
+        "correcao_cientifica": 3.8114,
+        "verificab_citacoes": 4.2543,
+        "especificidade": 4.9314,
+        "completude": 4.0057,
+        "assertividade": 4.7314,
+        "aplicacao_pratica": 3.6486,
+        "reval": 4.2591,
+        "n": 350
+      }
+    },
+    "GLM": {
+      "Ours": {
+        "correcao_cientifica": 3.9571,
+        "verificab_citacoes": 3.6771,
+        "especificidade": 2.9429,
+        "completude": 2.8943,
+        "assertividade": 3.8029,
+        "aplicacao_pratica": 2.54,
+        "reval": 3.4386,
+        "n": 350
+      },
+      "GPT54": {
+        "correcao_cientifica": 4.9829,
+        "verificab_citacoes": 4.8114,
+        "especificidade": 3.7,
+        "completude": 4.8714,
+        "assertividade": 4.9486,
+        "aplicacao_pratica": 4.26,
+        "reval": 4.6271,
+        "n": 350
+      },
+      "Gemini": {
+        "correcao_cientifica": 4.9571,
+        "verificab_citacoes": 4.5457,
+        "especificidade": 3.7829,
+        "completude": 4.8286,
+        "assertividade": 4.9971,
+        "aplicacao_pratica": 4.1286,
+        "reval": 4.5627,
+        "n": 350
+      },
+      "Grok": {
+        "correcao_cientifica": 4.9057,
+        "verificab_citacoes": 4.72,
+        "especificidade": 4.6286,
+        "completude": 4.9171,
+        "assertividade": 4.9971,
+        "aplicacao_pratica": 4.54,
+        "reval": 4.7964,
+        "n": 350
+      },
+      "GemSearch": {
+        "correcao_cientifica": 4.9286,
+        "verificab_citacoes": 4.7257,
+        "especificidade": 4.9914,
+        "completude": 4.94,
+        "assertividade": 4.9914,
+        "aplicacao_pratica": 4.54,
+        "reval": 4.879,
+        "n": 350
+      }
+    },
+    "Gemini": {
+      "Ours": {
+        "correcao_cientifica": 3.7086,
+        "verificab_citacoes": 4.1114,
+        "especificidade": 2.6571,
+        "completude": 2.3429,
+        "assertividade": 3.5943,
+        "aplicacao_pratica": 2.3086,
+        "reval": 3.3127,
+        "n": 350
+      },
+      "GPT54": {
+        "correcao_cientifica": 4.9857,
+        "verificab_citacoes": 4.9429,
+        "especificidade": 3.5571,
+        "completude": 4.9714,
+        "assertividade": 4.8286,
+        "aplicacao_pratica": 4.2229,
+        "reval": 4.6333,
+        "n": 350
+      },
+      "GLM": {
+        "correcao_cientifica": 4.8371,
+        "verificab_citacoes": 4.4286,
+        "especificidade": 3.5114,
+        "completude": 4.8771,
+        "assertividade": 4.9657,
+        "aplicacao_pratica": 3.8971,
+        "reval": 4.4417,
+        "n": 350
+      },
+      "Grok": {
+        "correcao_cientifica": 4.8286,
+        "verificab_citacoes": 4.7771,
+        "especificidade": 4.5371,
+        "completude": 4.9429,
+        "assertividade": 4.9657,
+        "aplicacao_pratica": 4.4257,
+        "reval": 4.7681,
+        "n": 350
+      }
+    },
+    "Grok": {
+      "Ours": {
+        "correcao_cientifica": 3.58,
+        "verificab_citacoes": 4.0943,
+        "especificidade": 2.92,
+        "completude": 3.0971,
+        "assertividade": 3.0571,
+        "aplicacao_pratica": 2.9343,
+        "reval": 3.4196,
+        "n": 350
+      },
+      "GPT54": {
+        "correcao_cientifica": 4.7229,
+        "verificab_citacoes": 4.9314,
+        "especificidade": 3.8629,
+        "completude": 4.4229,
+        "assertividade": 3.9743,
+        "aplicacao_pratica": 4.3,
+        "reval": 4.462,
+        "n": 350
+      },
+      "GLM": {
+        "correcao_cientifica": 4.2686,
+        "verificab_citacoes": 4.5857,
+        "especificidade": 3.7514,
+        "completude": 4.2314,
+        "assertividade": 4.6286,
+        "aplicacao_pratica": 3.9686,
+        "reval": 4.2599,
+        "n": 350
+      },
+      "Gemini": {
+        "correcao_cientifica": 4.4114,
+        "verificab_citacoes": 4.8029,
+        "especificidade": 3.8,
+        "completude": 4.3143,
+        "assertividade": 4.6714,
+        "aplicacao_pratica": 4.0629,
+        "reval": 4.381,
+        "n": 350
+      },
+      "GemSearch": {
+        "correcao_cientifica": 4.3171,
+        "verificab_citacoes": 4.7714,
+        "especificidade": 4.9886,
+        "completude": 4.3857,
+        "assertividade": 4.1257,
+        "aplicacao_pratica": 4.2857,
+        "reval": 4.5546,
+        "n": 350
+      }
+    }
+  },
+  "bias_matrix": {
+    "Atla→Ours": 0.4184,
+    "GPT54→Ours": -0.5514,
+    "GLM→Ours": 0.0926,
+    "Gemini→Ours": -0.0333,
+    "Grok→Ours": 0.0736,
+    "Atla→GPT54": 0.0381,
+    "GLM→GPT54": 0.0403,
+    "Gemini→GPT54": 0.0465,
+    "Grok→GPT54": -0.1249,
+    "Atla→GLM": 0.29,
+    "GPT54→GLM": -0.5372,
+    "Gemini→GLM": 0.2146,
+    "Grok→GLM": 0.0328,
+    "Atla→Gemini": 0.2468,
+    "GPT54→Gemini": -0.5293,
+    "GLM→Gemini": 0.2321,
+    "Grok→Gemini": 0.0504,
+    "Atla→Grok": 0.1624,
+    "GPT54→Grok": -0.6222,
+    "GLM→Grok": 0.2441,
+    "Gemini→Grok": 0.2158,
+    "Atla→GemSearch": 0.1204,
+    "GPT54→GemSearch": -0.3453,
+    "GLM→GemSearch": 0.2746,
+    "Grok→GemSearch": -0.0498
+  },
+  "krippendorff_alpha": {
+    "correcao_cientifica": 0.3563,
+    "verificab_citacoes": 0.3423,
+    "especificidade": 0.8441,
+    "completude": 0.5508,
+    "assertividade": 0.4678,
+    "aplicacao_pratica": 0.7716,
+    "REVAL": 0.6411
+  },
+  "paired_comparisons": {
+    "GLM": {
+      "n": 350,
+      "ours_mean": 3.346,
+      "baseline_mean": 4.2271,
+      "delta": -0.8812,
+      "delta_ci_95": [
+        -0.9494,
+        -0.8134
+      ],
+      "cohens_d": -1.615,
+      "cliffs_delta": -0.7411,
+      "wilcoxon_W": 956.5,
+      "p_value": 0.0,
+      "p_bonferroni": 0.0,
+      "significant_05": true
+    },
+    "Gemini": {
+      "n": 350,
+      "ours_mean": 3.346,
+      "baseline_mean": 4.3306,
+      "delta": -0.9846,
+      "delta_ci_95": [
+        -1.0503,
+        -0.9184
+      ],
+      "cohens_d": -1.8399,
+      "cliffs_delta": -0.8052,
+      "wilcoxon_W": 424.0,
+      "p_value": 0.0,
+      "p_bonferroni": 0.0,
+      "significant_05": true
+    },
+    "Grok": {
+      "n": 350,
+      "ours_mean": 3.346,
+      "baseline_mean": 4.5524,
+      "delta": -1.2064,
+      "delta_ci_95": [
+        -1.2721,
+        -1.1385
+      ],
+      "cohens_d": -2.3522,
+      "cliffs_delta": -0.9098,
+      "wilcoxon_W": 34.0,
+      "p_value": 0.0,
+      "p_bonferroni": 0.0,
+      "significant_05": true
+    }
+  },
+  "disagreement": {
+    "high_agreement": 1571,
+    "low_agreement": 529,
+    "total": 2100,
+    "high_pct": 74.81,
+    "mean_sigma": 0.3839,
+    "median_sigma": 0.3637
+  }
+}

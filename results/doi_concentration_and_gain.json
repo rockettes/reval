@@ -1,0 +1,87 @@
+{
+  "doi_concentration": {
+    "SYSTEM-R": {
+      "doi_mentions": 695,
+      "resolved_mentions": 682,
+      "unique_resolved": 288,
+      "mentions_per_unique": 2.37
+    },
+    "Gemini+S": {
+      "doi_mentions": 1076,
+      "resolved_mentions": 992,
+      "unique_resolved": 640,
+      "mentions_per_unique": 1.55
+    },
+    "Gemini": {
+      "doi_mentions": 725,
+      "resolved_mentions": 615,
+      "unique_resolved": 368,
+      "mentions_per_unique": 1.67
+    },
+    "Grok": {
+      "doi_mentions": 1196,
+      "resolved_mentions": 958,
+      "unique_resolved": 465,
+      "mentions_per_unique": 2.06
+    },
+    "GPT+S": {
+      "doi_mentions": 1895,
+      "resolved_mentions": 1643,
+      "unique_resolved": 1018,
+      "mentions_per_unique": 1.61
+    },
+    "GPT": {
+      "doi_mentions": 1231,
+      "resolved_mentions": 879,
+      "unique_resolved": 502,
+      "mentions_per_unique": 1.75
+    },
+    "GLM": {
+      "doi_mentions": 1032,
+      "resolved_mentions": 516,
+      "unique_resolved": 321,
+      "mentions_per_unique": 1.61
+    }
+  },
+  "gemini_to_gemsearch_gain": {
+    "delta_reval": 0.274,
+    "by_dimension": {
+      "correcao_cientifica": {
+        "delta": -0.077,
+        "weight": 0.25,
+        "contribution": -0.019,
+        "share_pct": -7.0
+      },
+      "verificab_citacoes": {
+        "delta": 0.182,
+        "weight": 0.25,
+        "contribution": 0.046,
+        "share_pct": 16.6
+      },
+      "especificidade": {
+        "delta": 1.204,
+        "weight": 0.2,
+        "contribution": 0.241,
+        "share_pct": 87.9
+      },
+      "completude": {
+        "delta": 0.078,
+        "weight": 0.15,
+        "contribution": 0.012,
+        "share_pct": 4.3
+      },
+      "assertividade": {
+        "delta": -0.186,
+        "weight": 0.1,
+        "contribution": -0.019,
+        "share_pct": -6.8
+      },
+      "aplicacao_pratica": {
+        "delta": 0.274,
+        "weight": 0.05,
+        "contribution": 0.014,
+        "share_pct": 5.0
+      }
+    }
+  }
+}

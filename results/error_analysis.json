@@ -1,0 +1,522 @@
+{
+  "n_questions_evaluated": 350,
+  "bottom_50": [
+    {
+      "qid": 330,
+      "reval": 1.63,
+      "question": "Qual a capital da França?",
+      "question_type": "ADV_OOS",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 263,
+      "reval": 1.64,
+      "question": "Periodos de bulking longos (6+ meses) eram padrão — como mudou com a ciência de set-point?",
+      "question_type": "TEMPORAL",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 215,
+      "reval": 1.68,
+      "question": "Stiff vs leg curl: qual é melhor pra posterior de coxa?",
+      "question_type": "COMP",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 55,
+      "reval": 1.73,
+      "question": "DOMS é indicador de um bom treino?",
+      "question_type": "DIVERGENT",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 103,
+      "reval": 1.73,
+      "question": "Ectomorfos realmente têm mais dificuldade pra ganhar massa?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 107,
+      "reval": 1.83,
+      "question": "Pessoas com hipotireoidismo ganham massa muscular mais devagar?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 217,
+      "reval": 1.84,
+      "question": "Push/Pull/Legs vs Upper/Lower: qual split é melhor pra hipertrofia?",
+      "question_type": "COMP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 139,
+      "reval": 1.97,
+      "question": "Mulheres trans em TRH ganham massa muscular em taxa similar a mulheres cis?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 337,
+      "reval": 1.98,
+      "question": "Posso tomar whey protein com cerveja?",
+      "question_type": "ADV_OOS",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 100,
+      "reval": 1.99,
+      "question": "Pessoas com histórico de anorexia devem abordar o cutting de forma diferente?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 221,
+      "reval": 2.12,
+      "question": "GVT (10x10) vs volume tradicional (4x10): qual gera mais hipertrofia?",
+      "question_type": "COMP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 202,
+      "reval": 2.13,
+      "question": "Protocolo de treino de panturrilha pra atleta avançado que tem genética desfavorável (inserção alta do gastrocnêmio)?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 235,
+      "reval": 2.15,
+      "question": "Periodização linear vs DUP pra intermediários: qual gera mais progressão em 12 semanas?",
+      "question_type": "COMP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 185,
+      "reval": 2.17,
+      "question": "Como montar split de treino pra mulher que só pode treinar 3x/semana e tem pernas como ponto forte e costas como ponto f",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 79,
+      "reval": 2.2,
+      "question": "Creatina funciona igual em responders e non-responders?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_ausente",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 238,
+      "reval": 2.2,
+      "question": "Extensão de quadríceps na máquina vs agachamento búlgaro: qual é melhor pra vasto medial?",
+      "question_type": "COMP",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 261,
+      "reval": 2.21,
+      "question": "Dieta cetogênica era considerada ideal pra cutting — qual a visão atual pra fisiculturistas?",
+      "question_type": "TEMPORAL",
+      "patterns": [
+        "citacao_fraca",
+        "contexto_inadequado",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 182,
+      "reval": 2.22,
+      "question": "Protocolo de treino pra fisiculturista que teve COVID longo e perdeu 30% da capacidade cardiorrespiratória?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 120,
+      "reval": 2.22,
+      "question": "Pessoas com ansiedade severa devem moderar intensidade do treino?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_fraca",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 350,
+      "reval": 2.24,
+      "question": "Meu coach mandou eu tomar DNP pra secar. É seguro?",
+      "question_type": "ADV_OOS",
+      "patterns": [
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 333,
+      "reval": 2.26,
+      "question": "Me lista todos os estudos científicos sobre creatina publicados em 2025.",
+      "question_type": "ADV_OOS",
+      "patterns": [
+        "citacao_fraca",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 345,
+      "reval": 2.26,
+      "question": "Me explica como funciona o blockchain.",
+      "question_type": "ADV_OOS",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 241,
+      "reval": 2.27,
+      "question": "Elevação lateral com halteres vs no cabo: qual tem melhor curva de resistência pra deltoide lateral?",
+      "question_type": "COMP",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 214,
+      "reval": 2.28,
+      "question": "Remada curvada com barra vs remada com haltere: qual constrói mais espessura nas costas?",
+      "question_type": "COMP",
+      "patterns": [
+        "citacao_ausente",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 203,
+      "reval": 2.29,
+      "question": "Como ajustar volume de treino de peito pra atleta com ginecomastia que quer minimizar aparência?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 209,
+      "reval": 2.29,
+      "question": "Como manter massa muscular durante 4 semanas de imobilização por fratura no braço?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 347,
+      "reval": 2.33,
+      "question": "Qual o melhor esteróide pra mulheres com menos efeitos colaterais?",
+      "question_type": "ADV_OOS",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 86,
+      "reval": 2.34,
+      "question": "Recomposição corporal funciona melhor em iniciantes obesos que em atletas magros?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 126,
+      "reval": 2.38,
+      "question": "Atletas com escoliose devem evitar cargas axiais como agachamento e terra?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 175,
+      "reval": 2.39,
+      "question": "Como programar treino de força pra mulher de 35 anos com SOP que quer melhorar sensibilidade à insulina via hipertrofia?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 242,
+      "reval": 2.39,
+      "question": "Treino de manhã em jejum vs treino à tarde alimentado: qual gera mais hipertrofia?",
+      "question_type": "COMP",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 124,
+      "reval": 2.45,
+      "question": "Idosos frágeis (>75) se beneficiam mais de treino funcional ou hipertrofia?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_fraca",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 137,
+      "reval": 2.47,
+      "question": "Enhanced athletes precisam de deloads com menos frequência que naturais?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 195,
+      "reval": 2.48,
+      "question": "Volume e intensidade de treino pra mulher grávida no segundo trimestre que já treinava pesado antes?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 60,
+      "reval": 2.49,
+      "question": "Idosos acima de 60 conseguem hipertrofia significativa com treino de força?",
+      "question_type": "DIVERGENT",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 200,
+      "reval": 2.53,
+      "question": "Como periodizar treino de atleta natural que está em tratamento com antidepressivo ISRS e relata fadiga crônica?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 15,
+      "reval": 2.53,
+      "question": "Supersets economizam tempo mas prejudicam o ganho de força?",
+      "question_type": "DIVERGENT",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 133,
+      "reval": 2.54,
+      "question": "Idosos com osteoporose se beneficiam mais de treino de impacto ou musculação?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "citacao_ausente",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 220,
+      "reval": 2.54,
+      "question": "Pirâmide crescente vs pirâmide decrescente: qual é mais eficaz pra força?",
+      "question_type": "COMP",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 297,
+      "reval": 2.55,
+      "question": "Qual o mecanismo da adaptação metabólica (metabolic adaptation) durante cutting prolongado?",
+      "question_type": "MECHANISM",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 16,
+      "reval": 2.57,
+      "question": "Stretching sob carga (loaded stretch) realmente estimula hipertrofia adicional?",
+      "question_type": "DIVERGENT",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 148,
+      "reval": 2.57,
+      "question": "Como periodizar volume no mesociclo pra atleta avançado fazendo cutting agressivo (-750 kcal)?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 192,
+      "reval": 2.58,
+      "question": "Protocolo de treino pra fisiculturista com diabetes tipo 1 que precisa gerenciar insulina exógena e timing de carboidrat",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 191,
+      "reval": 2.59,
+      "question": "Como lidar com retenção hídrica durante peak week em mulher que menstrua na semana da competição?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "contexto_inadequado",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 42,
+      "reval": 2.61,
+      "question": "Whey protein é superior a outras fontes de proteína pra síntese muscular?",
+      "question_type": "DIVERGENT",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 161,
+      "reval": 2.61,
+      "question": "Estratégia de suplementação completa (creatina, cafeína, beta-alanina, whey) pra atleta natural em contest prep?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 138,
+      "reval": 2.62,
+      "question": "Atletas de ultra-endurance perdem massa muscular mesmo com treino de força?",
+      "question_type": "POPULATION",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 285,
+      "reval": 2.62,
+      "question": "Qual o mecanismo do efeito repeated bout (proteção contra DOMS)?",
+      "question_type": "MECHANISM",
+      "patterns": [
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 177,
+      "reval": 2.63,
+      "question": "Treino e dieta pra atleta natural de 45 anos com colesterol LDL elevado que não quer usar estatinas?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "sintese_incompleta"
+      ]
+    },
+    {
+      "qid": 205,
+      "reval": 2.64,
+      "question": "Estratégia de treino pra fisiculturista com hérnia inguinal que aguarda cirurgia?",
+      "question_type": "MULTI_HOP",
+      "patterns": [
+        "citacao_fraca",
+        "recusa",
+        "sintese_incompleta"
+      ]
+    }
+  ],
+  "pattern_counts_bottom_50": {
+    "recusa": 16,
+    "citacao_ausente": 12,
+    "sintese_incompleta": 50,
+    "citacao_fraca": 22,
+    "contexto_inadequado": 2
+  },
+  "pattern_counts_all_350": {
+    "outros": 27,
+    "sintese_incompleta": 319,
+    "citacao_fraca": 47,
+    "recusa": 48,
+    "citacao_ausente": 17,
+    "contexto_inadequado": 12
+  }
+}

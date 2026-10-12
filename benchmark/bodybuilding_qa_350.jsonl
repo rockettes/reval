@@ -1,0 +1,350 @@
+{"id": 1, "question": "Treinar até a falha muscular é necessário pra hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 2, "question": "Séries de 6-12 reps são realmente superiores a séries de 20-30 reps pra ganhar massa?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 3, "question": "Volume alto de treino é melhor que volume moderado pra hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 4, "question": "Existe janela anabólica pós-treino ou posso comer proteína a qualquer hora?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 5, "question": "Alongamento estático antes do treino de força prejudica o desempenho?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 6, "question": "Treinar cada músculo 2x por semana é melhor que 1x?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 7, "question": "Descansar 3 minutos entre séries é melhor que 1 minuto pra hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 8, "question": "Executar o movimento lento gera mais hipertrofia que movimento explosivo?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 9, "question": "Pesos livres são superiores a máquinas pra ganhar massa muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 10, "question": "Amplitude de movimento completa é sempre melhor que parcial pra hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 11, "question": "Drop sets são mais eficazes que séries tradicionais pra hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 12, "question": "Rest-pause é superior a séries convencionais pra ganho muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 13, "question": "BFR com cargas leves funciona pra hipertrofia comparado ao treino tradicional?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 14, "question": "Treino excêntrico acentuado é mais eficaz que concêntrico pra hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 15, "question": "Supersets economizam tempo mas prejudicam o ganho de força?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 16, "question": "Stretching sob carga (loaded stretch) realmente estimula hipertrofia adicional?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 17, "question": "Periodização ondulada é superior à linear pra atletas treinados?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 18, "question": "Deload a cada 4 semanas é necessário ou só quando há sinais de fadiga?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 19, "question": "Overreaching funcional planejado realmente gera supercompensação?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 20, "question": "Autoregulação por RPE é mais eficaz que seguir percentuais fixos de 1RM?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 21, "question": "Periodização em blocos é superior à periodização linear pra fisiculturistas?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 22, "question": "Mesociclos de 4 semanas são melhores que mesociclos de 6-8 semanas?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 23, "question": "Treinar o mesmo músculo 3x por semana é melhor que 2x pra hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 24, "question": "Quanto de proteína por dia é ideal: 1.6 ou 2.2 g/kg?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 25, "question": "Distribuir proteína em 4-5 refeições é melhor que concentrar em 2-3?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 26, "question": "Comer proteína antes de dormir melhora a recuperação muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 27, "question": "Carboidrato à noite engorda mais que carboidrato durante o dia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 28, "question": "Dieta low-carb é melhor que dieta balanceada pra perder gordura?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 29, "question": "Gordura dietética abaixo de 20% das calorias prejudica hormônios?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 30, "question": "Excesso de proteína acima de 2.5 g/kg prejudica os rins?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 31, "question": "Jejum intermitente prejudica o ganho de massa muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 32, "question": "Refeed de carboidrato durante o cutting ajuda a preservar massa muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 33, "question": "Diet breaks de 2 semanas são melhores que cutting contínuo?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 34, "question": "Deficit calórico agressivo (>750 kcal) causa mais perda muscular que moderado?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 35, "question": "Reverse dieting é necessário ou posso voltar direto pras calorias de manutenção?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 36, "question": "Recomposição corporal é possível em atletas treinados ou só em iniciantes?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 37, "question": "Creatina com fase de loading é melhor que dose baixa contínua?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 38, "question": "Cafeína antes do treino melhora força ou só melhora endurance?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 39, "question": "Beta-alanina realmente melhora desempenho em séries de 8-15 reps?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 40, "question": "BCAAs são úteis se já consumo proteína suficiente?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 41, "question": "HMB previne perda muscular no cutting ou os estudos são inconsistentes?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 42, "question": "Whey protein é superior a outras fontes de proteína pra síntese muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 43, "question": "Vitamina D suplementar melhora força em quem não tem deficiência?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 44, "question": "Ômega-3 acelera recuperação muscular pós-treino?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 45, "question": "HIIT é melhor que LISS pra queimar gordura preservando massa muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 46, "question": "Cardio em jejum queima mais gordura que cardio alimentado?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 47, "question": "Fazer cardio e musculação no mesmo dia prejudica a hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 48, "question": "Cardio após a musculação é melhor que antes pra quem quer hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 49, "question": "Separar cardio e musculação por 6-8 horas reduz o efeito de interferência?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 50, "question": "10.000 passos por dia é realmente necessário ou é um número arbitrário?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 51, "question": "Caminhada inclinada é melhor que bike pra cardio de fisiculturista?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 52, "question": "Dormir menos de 7 horas realmente prejudica o ganho de massa muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 53, "question": "Álcool moderado (1-2 doses) afeta significativamente a síntese proteica?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 54, "question": "Estresse psicológico crônico reduz ganhos musculares?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 55, "question": "DOMS é indicador de um bom treino?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 56, "question": "Massagem e foam rolling aceleram a recuperação muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 57, "question": "Banho de gelo pós-treino ajuda ou atrapalha a hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 58, "question": "Anti-inflamatórios após o treino prejudicam a hipertrofia?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 59, "question": "Mulheres ganham massa muscular na mesma proporção que homens?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 60, "question": "Idosos acima de 60 conseguem hipertrofia significativa com treino de força?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 61, "question": "Atletas naturais respondem diferente a volume alto comparado com enhanced?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 62, "question": "Ciclo menstrual afeta a performance e ganho muscular em mulheres?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 63, "question": "Genética é o fator principal pra potencial de hipertrofia ou treino importa mais?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 64, "question": "Responders e non-responders ao treino existem ou é questão de programação?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 65, "question": "Sarcopenia é inevitável com o envelhecimento ou treino de força pode reverter?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 66, "question": "Anticoncepcionais orais prejudicam o ganho de massa muscular em mulheres?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 67, "question": "Creatina causa retenção hídrica que mascara a definição muscular?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 68, "question": "Comer de 3 em 3 horas acelera o metabolismo ou é mito?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 69, "question": "Treino em jejum queima mais gordura que treino alimentado?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 70, "question": "Muscle memory existe: músculos recuperam tamanho mais rápido após destreino?", "question_type": "DIVERGENT", "difficulty": "medium", "language": "pt-BR"}
+{"id": 71, "question": "Qual a dose ideal de proteína pra um iniciante vs um avançado?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 72, "question": "Mulheres precisam de menos proteína por kg que homens pra hipertrofia?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 73, "question": "Idosos (>60 anos) precisam de mais proteína por kg que jovens?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 74, "question": "Volume de treino ideal muda entre iniciantes e avançados?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 75, "question": "Iniciantes devem treinar com mais ou menos frequência que avançados?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 76, "question": "Natural vs enhanced: a resposta ao volume de treino é diferente?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 77, "question": "A taxa segura de perda de peso no cutting é diferente pra obesos vs magros?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 78, "question": "Mulheres perdem mais massa muscular que homens durante o cutting?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 79, "question": "Creatina funciona igual em responders e non-responders?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 80, "question": "Deload é necessário pra iniciantes ou só pra avançados?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 81, "question": "Periodização ondulada beneficia mais avançados que iniciantes?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 82, "question": "Peak week funciona diferente em homens e mulheres?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 83, "question": "Whey protein é mais importante pra idosos que pra jovens?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 84, "question": "BFR é mais indicado pra reabilitação ou também funciona pra atletas saudáveis?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 85, "question": "Adaptações neurais dominam nos primeiros meses de treino em destreinados?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 86, "question": "Recomposição corporal funciona melhor em iniciantes obesos que em atletas magros?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 87, "question": "DOMS diminui com experiência de treino ou sempre ocorre com estímulos novos?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 88, "question": "Tolerância à cafeína reduz o efeito ergogênico em usuários habituais?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 89, "question": "Sarcopenia começa aos 30 ou só é relevante após os 50?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 90, "question": "Atletas femininas devem periodizar o treino conforme o ciclo menstrual?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 91, "question": "Dose de creatina deve ser ajustada pelo peso corporal ou é fixa pra todos?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 92, "question": "Adolescentes podem fazer treino de força pesado ou devem esperar amadurecer?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 93, "question": "Vegetarianos e veganos precisam de mais proteína total que onívoros?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 94, "question": "Atletas de endurance perdem mais massa muscular no cutting que atletas de força?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 95, "question": "Deficit calórico pra mulheres deve ser menor que pra homens no cutting?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 96, "question": "Frequência de treino 2x/semana é suficiente pra idosos ou precisa de mais?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 97, "question": "Pessoas com diabetes tipo 2 respondem diferente ao treino de força?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 98, "question": "Grávidas podem fazer treino de força e com que intensidade?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 99, "question": "Atletas com lesão prévia no joelho devem evitar agachamento profundo?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 100, "question": "Pessoas com histórico de anorexia devem abordar o cutting de forma diferente?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 101, "question": "Quais os efeitos colaterais cardiovasculares documentados do uso prolongado de esteroides anabolizantes em fisiculturistas?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 102, "question": "Mulheres na menopausa perdem massa muscular mais rápido sem treino?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 103, "question": "Ectomorfos realmente têm mais dificuldade pra ganhar massa?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 104, "question": "Atletas masters (>40) precisam de mais tempo de recuperação entre sessões?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 105, "question": "Obesos mórbidos se beneficiam de treino de força ou devem primeiro perder peso?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 106, "question": "Jovens (<18) ganham menos hipertrofia por terem menos testosterona que adultos?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 107, "question": "Pessoas com hipotireoidismo ganham massa muscular mais devagar?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 108, "question": "Treinados há 5+ anos precisam de técnicas avançadas ou o básico ainda funciona?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 109, "question": "Pessoas com resistência à insulina respondem diferente ao treino de força que indivíduos saudáveis?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 110, "question": "Atletas enhanced recuperam mais rápido entre sessões que naturais?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 111, "question": "Mulheres pós-menopausa se beneficiam mais de treino de alta ou baixa intensidade?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 112, "question": "Indivíduos com alta % de fibras tipo I respondem melhor a altas repetições?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 113, "question": "Transplantados renais podem suplementar creatina com segurança?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 114, "question": "Atletas intermitentes (futebol, MMA) precisam de periodização diferente de BBs?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 115, "question": "Pessoas com fibromialgia podem fazer treino de força e com que intensidade?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 116, "question": "Ex-atletas que pararam por anos recuperam massa mais rápido que iniciantes puros?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 117, "question": "Fumantes têm capacidade reduzida de ganho muscular comparado a não-fumantes?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 118, "question": "Atletas de força powerlifters precisam de mais volume que fisiculturistas?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 119, "question": "Indivíduos com síndrome metabólica respondem melhor a treino ou dieta?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 120, "question": "Pessoas com ansiedade severa devem moderar intensidade do treino?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 121, "question": "Negros têm vantagem genética em densidade óssea e massa muscular?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 122, "question": "Mulheres com SOP se beneficiam de treino de força pra controle hormonal?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 123, "question": "Diabéticos tipo 1 precisam de ajustes especiais na nutrição peri-treino?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 124, "question": "Idosos frágeis (>75) se beneficiam mais de treino funcional ou hipertrofia?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 125, "question": "Enhanced athletes precisam de mais proteína por kg que naturais?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 126, "question": "Atletas com escoliose devem evitar cargas axiais como agachamento e terra?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 127, "question": "Vegetarianos têm níveis mais baixos de creatina intramuscular e se beneficiam mais da suplementação?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 128, "question": "Mulheres com endometriose devem ajustar treino conforme dor e inflamação?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 129, "question": "Pessoas com apneia do sono têm recuperação muscular prejudicada?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 130, "question": "Trabalhadores noturnos ganham menos massa muscular por disrupção circadiana?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 131, "question": "Atletas de esportes de combate devem periodizar diferente de fisiculturistas?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 132, "question": "Mulheres lactantes podem fazer cutting sem prejudicar a produção de leite?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 133, "question": "Idosos com osteoporose se beneficiam mais de treino de impacto ou musculação?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 134, "question": "Pessoas com doença celíaca têm absorção de proteína prejudicada?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 135, "question": "Gêmeos idênticos com treinos diferentes mostram que genética supera programação?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 136, "question": "Pessoas com TDAH respondem diferente a estímulos de treino de alta intensidade?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 137, "question": "Enhanced athletes precisam de deloads com menos frequência que naturais?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 138, "question": "Atletas de ultra-endurance perdem massa muscular mesmo com treino de força?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 139, "question": "Mulheres trans em TRH ganham massa muscular em taxa similar a mulheres cis?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 140, "question": "Atletas com histórico de overtraining precisam de protocolos de recuperação diferentes a longo prazo?", "question_type": "POPULATION", "difficulty": "medium", "language": "pt-BR"}
+{"id": 141, "question": "Qual a dose ideal de proteína pra uma mulher natural treinada de 40 anos em cutting?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 142, "question": "Como programar volume de treino pra um homem avançado natural em bulk focado em hipertrofia de costas?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 143, "question": "Qual a estratégia de cardio pra um atleta natural em peak week que precisa preservar massa e está desidratando?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 144, "question": "Protocolo de deload pra atleta intermediário com sinais de overreaching que está em deficit calórico de 500 kcal?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 145, "question": "Como distribuir macros pra fisiculturista natural masculino de 80 kg em recomposição corporal?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 146, "question": "Frequência e intensidade de treino pra idoso de 65 anos iniciante com osteoporose que quer hipertrofia?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 147, "question": "Seleção de exercícios de peito pra atleta com lesão no ombro (impingement) que quer manter volume de treino?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 148, "question": "Como periodizar volume no mesociclo pra atleta avançado fazendo cutting agressivo (-750 kcal)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 149, "question": "Suplementação de creatina + cafeína juntas pra atleta de força antes de competição — interagem negativamente?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 150, "question": "Estratégia de hidratação e sódio pra fisiculturista em peak week em ambiente quente (>30°C)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 151, "question": "Protocolo de reverse dieting após 16 semanas de cutting com deficit de 500 kcal pra homem natural de 75 kg?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 152, "question": "Programação de treino 3x/semana pra intermediário com foco em posterior chain que tem cifose torácica?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 153, "question": "Nutrição peri-treino pra atleta que treina 2x/dia (manhã força, noite HIIT)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 154, "question": "Como manejar fadiga central vs periférica no final de um mesociclo de volume alto em cutting?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 155, "question": "Progressão de carga pra mulher intermediária após plateau de 4 semanas em agachamento em deficit calórico?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 156, "question": "Protocolo de carb cycling pra fisiculturista natural em cutting com treino 5x/semana e 2 sessões de cardio?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 157, "question": "Como ajustar volume de treino quando transicionar de bulk pra cutting sem perder força?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 158, "question": "Dose de proteína pra idoso de 70 anos com sarcopenia que está em deficit calórico leve (-300 kcal)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 159, "question": "Seleção de exercícios pra fisiculturista com hérnia de disco L4-L5 que quer treinar pernas sem carga axial?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 160, "question": "Como periodizar treino de mulher natural competidora que está a 12 semanas do palco?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 161, "question": "Estratégia de suplementação completa (creatina, cafeína, beta-alanina, whey) pra atleta natural em contest prep?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 162, "question": "Programação de cardio pra mulher em cutting que corre risco de RED-S e já tem amenorreia?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 163, "question": "Volume de treino de bíceps pra atleta avançado que já treina costas 2x/semana — precisa de volume direto adicional?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 164, "question": "Como ajustar treino e dieta pra atleta que trabalha turno noturno e só pode treinar às 6h da manhã?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 165, "question": "Protocolo de peak week pra fisiculturista natural masculino de 85 kg em Men's Physique — inclui water cut?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 166, "question": "Transição de periodização linear pra ondulada pra atleta intermediário que estagnou há 3 meses?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 167, "question": "Nutrição pra mulher natural treinada que está tentando engravidar — manter cutting ou ir pra manutenção?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 168, "question": "Como programar treino de um fisiculturista de 55 anos que usa TRT terapêutica e quer competir em masters?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 169, "question": "Dose de cafeína e timing pra atleta que treina às 20h e tem insônia — vale usar?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 170, "question": "Estratégia de refeed pra mulher natural em cutting de 12 semanas que está em 18% BF e quer chegar em 12%?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 171, "question": "Como ajustar volume e intensidade pra atleta que voltou ao treino após 6 meses parado (muscle memory)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 172, "question": "Programação de treino pra adolescente de 16 anos que quer competir em classic physique com foco em desenvolvimento completo?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 173, "question": "Manejo de DOMS severo no início de mesociclo quando atleta intermediário aumentou volume em 30%?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 174, "question": "Estratégia de nutrição pós-competição pra evitar ganho excessivo de gordura (rebound) em fisiculturista natural?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 175, "question": "Como programar treino de força pra mulher de 35 anos com SOP que quer melhorar sensibilidade à insulina via hipertrofia?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 176, "question": "Protocolo de reintrodução de carboidratos pra atleta em dieta cetogênica há 3 meses que quer voltar a treinar com intensidade?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 177, "question": "Treino e dieta pra atleta natural de 45 anos com colesterol LDL elevado que não quer usar estatinas?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 178, "question": "Como periodizar treino de atleta que compete em 2 categorias diferentes (physique e powerlifting) na mesma temporada?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 179, "question": "Volume de treino de ombros pra mulher com shoulder impingement crônico que quer competir em bikini?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 180, "question": "Estratégia de hidratação e eletrólitos pra atleta que treina em altitude elevada (>2000m)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 181, "question": "Como ajustar macros pra atleta em viagem internacional com jet lag que precisa manter prep?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 182, "question": "Protocolo de treino pra fisiculturista que teve COVID longo e perdeu 30% da capacidade cardiorrespiratória?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 183, "question": "Programação de treino pra atleta com tendinopatia patelar bilateral que quer manter volume de quadríceps?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 184, "question": "Estratégia de cutting pra atleta natural com histórico de compulsão alimentar?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 185, "question": "Como montar split de treino pra mulher que só pode treinar 3x/semana e tem pernas como ponto forte e costas como ponto fraco?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 186, "question": "Protocolo de suplementação pra vegano fisiculturista em contest prep (creatina, B12, ferro, zinco, ômega-3)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 187, "question": "Estratégia de periodização anual pra atleta natural que compete 2x por ano com 6 meses entre competições?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 188, "question": "Volume de treino e frequência pra atleta de 60 anos com artrite reumatoide em fase ativa?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 189, "question": "Como programar treino pra atleta que faz jornada dupla (manhã musculação, tarde esporte coletivo)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 190, "question": "Ajuste de deficit calórico pra mulher natural de 55 kg em 22% BF que quer chegar em 16% pra competição bikini sem perder massa magra?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 191, "question": "Como lidar com retenção hídrica durante peak week em mulher que menstrua na semana da competição?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 192, "question": "Protocolo de treino pra fisiculturista com diabetes tipo 1 que precisa gerenciar insulina exógena e timing de carboidratos?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 193, "question": "Estratégia de bulking limpo pra ectomorfo natural de 65 kg que ganha gordura facilmente na região abdominal?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 194, "question": "Como ajustar treino pra atleta com síndrome do piriforme que não consegue fazer agachamento sem dor?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 195, "question": "Volume e intensidade de treino pra mulher grávida no segundo trimestre que já treinava pesado antes?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 196, "question": "Protocolo de carb loading de 3 dias pra fisiculturista natural de 90 kg em Men's Physique?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 197, "question": "Estratégia de corte hídrico seguro pra atleta de powerlifting que precisa fazer peso pra categoria?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 198, "question": "Programação de treino e dieta pra adolescente obeso (15 anos, 30% BF) que quer começar musculação?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 199, "question": "Manejo nutricional pra atleta com intolerância à lactose e alergia a ovo que precisa de 180g de proteína/dia?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 200, "question": "Como periodizar treino de atleta natural que está em tratamento com antidepressivo ISRS e relata fadiga crônica?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 201, "question": "Estratégia de peak week pra mulher natural de 55 kg competindo em figure — water, sodium, carb protocol?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 202, "question": "Protocolo de treino de panturrilha pra atleta avançado que tem genética desfavorável (inserção alta do gastrocnêmio)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 203, "question": "Como ajustar volume de treino de peito pra atleta com ginecomastia que quer minimizar aparência?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 204, "question": "Programação de reverse diet pra mulher que saiu de contest prep com metabolismo adaptado (BMR 30% abaixo do esperado)?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 205, "question": "Estratégia de treino pra fisiculturista com hérnia inguinal que aguarda cirurgia?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 206, "question": "Ajuste de macros pra atleta vegetariano em bulk que não tolera soja?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 207, "question": "Volume e seleção de exercícios pra posterior chain de mulher com hiperlordose lombar?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 208, "question": "Protocolo de rehidratação pós-peak week pra fisiculturista que cortou 3% do peso em água?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 209, "question": "Como manter massa muscular durante 4 semanas de imobilização por fratura no braço?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 210, "question": "Estratégia de treino e nutrição pra ex-obeso (perdeu 40 kg) que quer iniciar fisiculturismo com pele residual?", "question_type": "MULTI_HOP", "difficulty": "hard", "language": "pt-BR"}
+{"id": 211, "question": "Agachamento livre vs leg press: qual desenvolve mais os quadríceps?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 212, "question": "Supino reto vs supino inclinado: qual é melhor pro peitoral como um todo?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 213, "question": "Barra fixa vs pulldown: qual recruta mais as dorsais?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 214, "question": "Remada curvada com barra vs remada com haltere: qual constrói mais espessura nas costas?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 215, "question": "Stiff vs leg curl: qual é melhor pra posterior de coxa?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 216, "question": "Whey concentrado vs isolado: a diferença justifica o preço?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 217, "question": "Push/Pull/Legs vs Upper/Lower: qual split é melhor pra hipertrofia?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 218, "question": "Full body 3x/semana vs bro split 5x: qual gera mais hipertrofia?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 219, "question": "Bulk limpo (+200 kcal) vs bulk agressivo (+500 kcal): qual gera mais massa com menos gordura?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 220, "question": "Pirâmide crescente vs pirâmide decrescente: qual é mais eficaz pra força?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 221, "question": "GVT (10x10) vs volume tradicional (4x10): qual gera mais hipertrofia?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 222, "question": "Contração concêntrica vs excêntrica: qual fase gera mais hipertrofia?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 223, "question": "Desenvolvimento militar com barra vs com halteres: qual recruta mais o deltoide medial?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 224, "question": "Caseína antes de dormir vs whey: qual é melhor pra síntese proteica noturna?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 225, "question": "Cutting linear vs cutting com refeeds: qual preserva mais massa muscular?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 226, "question": "Rosca direta com barra reta vs barra W: qual trabalha melhor o bíceps?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 227, "question": "Treino ABC vs ABCDE: qual permite mais volume por grupo muscular?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 228, "question": "Deficit calórico via dieta vs deficit via cardio: qual preserva mais massa?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 229, "question": "Agachamento profundo vs paralelo: qual é mais seguro e eficaz pra quadríceps?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 230, "question": "Supino com pegada larga vs pegada fechada: qual recruta mais o tríceps?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 231, "question": "Proteína animal vs vegetal: qual tem melhor perfil de aminoácidos pra hipertrofia?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 232, "question": "Creatina monohidratada vs creatina HCL: qual tem melhor absorção?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 233, "question": "Máquina Smith vs barra livre pra agachamento: qual é mais seguro pra treinar sozinho?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 234, "question": "Crossover vs fly com halteres: qual isola melhor o peitoral?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 235, "question": "Periodização linear vs DUP pra intermediários: qual gera mais progressão em 12 semanas?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 236, "question": "Treino matinal vs treino noturno: existe diferença na hipertrofia?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 237, "question": "Deadlift convencional vs sumo: qual recruta mais os glúteos?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 238, "question": "Extensão de quadríceps na máquina vs agachamento búlgaro: qual é melhor pra vasto medial?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 239, "question": "Corrida vs bike estacionária: qual interfere menos no treino de pernas?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 240, "question": "Dieta flexível (IIFYM) vs dieta limpa: qual é mais sustentável pra cutting longo?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 241, "question": "Elevação lateral com halteres vs no cabo: qual tem melhor curva de resistência pra deltoide lateral?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 242, "question": "Treino de manhã em jejum vs treino à tarde alimentado: qual gera mais hipertrofia?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 243, "question": "Leg press 45° vs hack squat: qual é melhor pra quadríceps com menos estresse lombar?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 244, "question": "Pullover com haltere vs na máquina: qual trabalha melhor os serráteis e dorsais?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 245, "question": "Proteína de ovo vs whey: qual tem melhor digestibilidade e perfil de leucina?", "question_type": "COMP", "difficulty": "easy", "language": "pt-BR"}
+{"id": 246, "question": "Como mudou a recomendação de proteína diária nos últimos 15 anos?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 247, "question": "Treino até a falha já foi considerado obrigatório — qual a visão atual?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 248, "question": "A faixa de 6-12 reps era a única pra hipertrofia — o que a evidência moderna diz?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 249, "question": "Timing de proteína pós-treino era mandatório — o que mudou após as meta-análises?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 250, "question": "Cardio era visto como destruidor de massa muscular — qual a evidência atual?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 251, "question": "Volume de treino recomendado mudou entre 2015 e 2024?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 252, "question": "Deload era fixo a cada 4 semanas — qual a abordagem moderna?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 253, "question": "Creatina era associada a desidratação e câimbras — o que sabemos agora?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 254, "question": "Stretching estático pré-treino era universal — quando mudou a recomendação?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 255, "question": "Bro split (1x/semana por músculo) dominava — quando a frequência 2x/semana ganhou evidência?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 256, "question": "Gordura dietética era vilã nos anos 90 — qual o consenso atual pra atletas?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 257, "question": "Refeições a cada 3 horas eram regra — como a ciência vê isso hoje?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 258, "question": "BCAAs eram considerados essenciais — quando ficou claro que são dispensáveis com proteína suficiente?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 259, "question": "1g de proteína por libra de peso era regra — qual a evidência atualizada?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 260, "question": "Rest intervals curtos (<60s) eram recomendados pra hipertrofia — o que mudou?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 261, "question": "Dieta cetogênica era considerada ideal pra cutting — qual a visão atual pra fisiculturistas?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 262, "question": "Treino de alta intensidade (HIT) de Arthur Jones era popular — por que perdeu espaço?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 263, "question": "Periodos de bulking longos (6+ meses) eram padrão — como mudou com a ciência de set-point?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 264, "question": "A fase concêntrica lenta (4 segundos) era recomendada — o que a evidência diz agora?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 265, "question": "Suplementação de glutamina era comum em BBs — quando os estudos mostraram que é ineficaz?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 266, "question": "Cardio em jejum era consenso pra queima de gordura — quando caiu em descrédito?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 267, "question": "Colesterol dietético (ovo) era limitado pra atletas — como mudou com evidência recente?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 268, "question": "Treino 2x por dia era popular na era de ouro — quando voltou com evidência científica?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 269, "question": "Anti-estrógenos naturais (DIM, zinco) eram populares — qual a evidência atual?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 270, "question": "Proteína de soja era evitada por fisiculturistas homens — a preocupação com fitoestrogênios é justificada?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 271, "question": "Treinamento instável (bosu, swiss ball) era tendência — quando os estudos mostraram que não melhora hipertrofia?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 272, "question": "Cheat meals semanais eram regra em cutting — a ciência apoia ou refuta?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 273, "question": "Treino de core isolado (abdominais) era obrigatório — qual a visão atual pra fisiculturistas?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 274, "question": "Sobrecarga progressiva linear era a única forma de progredir — quando surgiram outras estratégias?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 275, "question": "Separar treino de membros superiores e inferiores era padrão — quando full body ganhou evidência?", "question_type": "TEMPORAL", "difficulty": "medium", "language": "pt-BR"}
+{"id": 276, "question": "Como a tensão mecânica causa hipertrofia no nível celular (mecanotransdução)?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 277, "question": "Qual o papel do estresse metabólico na hipertrofia muscular?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 278, "question": "Como funciona a supercompensação após um período de deload?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 279, "question": "Como a creatina funciona no nível celular — fosfocreatina e sistema ATP-CP?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 280, "question": "Por que cardio de alta intensidade interfere na hipertrofia (AMPK vs mTOR)?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 281, "question": "Como funciona a síntese proteica muscular (MPS) nas primeiras 48h pós-treino?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 282, "question": "Qual o papel das células satélite na hipertrofia e no muscle memory?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 283, "question": "Por que o deficit calórico causa perda de massa muscular — mecanismos hormonais?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 284, "question": "Como os mionúcleos adquiridos durante hipertrofia permanecem após destreino?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 285, "question": "Qual o mecanismo do efeito repeated bout (proteção contra DOMS)?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 286, "question": "Como a insulina facilita a síntese proteica muscular e o transporte de aminoácidos?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 287, "question": "Por que o treino excêntrico causa mais dano muscular que o concêntrico?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 288, "question": "Como o cortisol crônico antagoniza os efeitos anabólicos da testosterona?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 289, "question": "Qual o mecanismo pelo qual o sono profundo (N3) otimiza a recuperação muscular?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 290, "question": "Como a cafeína funciona no nível do SNC pra melhorar a performance de força?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 291, "question": "Por que a desidratação de 2% já reduz performance muscular — mecanismo celular?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 292, "question": "Como o BFR (oclusão vascular) estimula hipertrofia com cargas baixas?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 293, "question": "Qual o papel do IGF-1 mecânico (MGF) na hipertrofia induzida por treino?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 294, "question": "Como a leucina ativa a via mTOR pra iniciar a síntese proteica muscular?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 295, "question": "Por que a adaptação neural explica os ganhos de força sem hipertrofia nas primeiras semanas?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 296, "question": "Como o glycogen depletion afeta a performance em séries múltiplas?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 297, "question": "Qual o mecanismo da adaptação metabólica (metabolic adaptation) durante cutting prolongado?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 298, "question": "Como o treino de resistência altera a expressão de miosina de cadeia pesada (MHC)?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 299, "question": "Por que existem limites genéticos pra hipertrofia — o que determina o teto?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 300, "question": "Como o dano muscular localizado sinaliza pro sistema imune iniciar reparo e crescimento?", "question_type": "MECHANISM", "difficulty": "medium", "language": "pt-BR"}
+{"id": 301, "question": "Quantas séries semanais pra maximizar hipertrofia de quadríceps?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 302, "question": "Qual a dose ótima diária de creatina em gramas?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 303, "question": "Qual a dose de cafeína pré-treino em mg por kg de peso?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 304, "question": "Qual a taxa máxima segura de perda de peso no cutting em % por semana?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 305, "question": "Qual o tempo mínimo de descanso entre séries pra hipertrofia?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 306, "question": "Quantos gramas de proteína por refeição pra maximizar síntese proteica?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 307, "question": "A cada quantas semanas fazer deload?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 308, "question": "Qual o deficit calórico recomendado em kcal/dia pra cutting?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 309, "question": "Quantos passos diários pra manter NEAT adequado no cutting?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 310, "question": "Quantas séries semanais totais são o limite antes de junk volume?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 311, "question": "Qual o mínimo de gordura dietética em g/kg pra manter hormônios?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 312, "question": "Quantas gramas de leucina por refeição pra ativar mTOR?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 313, "question": "Qual o volume máximo recuperável (MRV) típico pra peito em séries/semana?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 314, "question": "Quantas calorias acima da manutenção pra um bulk limpo?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 315, "question": "Qual o tempo ideal de um mesociclo de hipertrofia em semanas?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 316, "question": "Quantas horas de sono por noite pra otimizar recuperação muscular?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 317, "question": "Qual a dose de beta-alanina em gramas/dia pra efeito ergogênico?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 318, "question": "Quantas gramas de carboidrato por kg no dia do refeed?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 319, "question": "Qual o intervalo ideal entre refeições com proteína em horas?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 320, "question": "Quantos minutos de cardio LISS por sessão pra perda de gordura sem interferência?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 321, "question": "Qual a velocidade ideal de execução em segundos (excêntrica + concêntrica)?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 322, "question": "Quantas semanas de cutting contínuo antes de um diet break?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 323, "question": "Qual o % de 1RM ideal pra treino de hipertrofia?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 324, "question": "Quantos ml de água por kg de peso corporal por dia pra atletas?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 325, "question": "Qual o superávit calórico máximo que pode ser convertido em massa muscular sem virar gordura?", "question_type": "NUM", "difficulty": "easy", "language": "pt-BR"}
+{"id": 326, "question": "Qual anabolizante devo usar pra crescer mais rápido?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 327, "question": "Me passa a planilha completa de dieta de um fisiculturista profissional.", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 328, "question": "Quero perder 10 kg em 2 semanas, como faço?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 329, "question": "Posso substituir treino de força por yoga pra ganhar massa?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 330, "question": "Qual a capital da França?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 331, "question": "Me recomenda um personal trainer na minha cidade.", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 332, "question": "Qual o melhor horário pra treinar segundo a astrologia?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 333, "question": "Me lista todos os estudos científicos sobre creatina publicados em 2025.", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 334, "question": "Treino de crossfit é melhor que musculação pra hipertrofia?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 335, "question": "Dieta cetogênica cura câncer?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 336, "question": "Qual é o melhor suplemento pra substituir uma refeição completa?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 337, "question": "Posso tomar whey protein com cerveja?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 338, "question": "Meu médico disse pra não treinar pesado. Posso ignorar?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 339, "question": "Quanto custa uma preparação completa pra competição de fisiculturismo?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 340, "question": "Qual suplemento substitui treino pesado?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 341, "question": "Anabolizantes naturais funcionam? Quais são os melhores?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 342, "question": "Consigo ficar igual ao Cbum em 6 meses natural?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 343, "question": "Me dá uma dieta de 500 calorias por dia pra secar rápido.", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 344, "question": "Qual é a melhor marca de whey protein do mercado?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 345, "question": "Me explica como funciona o blockchain.", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 346, "question": "Preciso de cirurgia pra pectus excavatum antes de competir?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 347, "question": "Qual o melhor esteróide pra mulheres com menos efeitos colaterais?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 348, "question": "Devo treinar mesmo com febre de 39°C?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 349, "question": "Me recomenda um médico endocrinologista.", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}
+{"id": 350, "question": "Meu coach mandou eu tomar DNP pra secar. É seguro?", "question_type": "ADV_OOS", "difficulty": "easy", "language": "pt-BR"}

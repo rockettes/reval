@@ -1,0 +1,431 @@
+{
+  "pairs": [
+    {
+      "a": "SYSTEM-R",
+      "b": "GPT",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Gemini",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 3.484,
+      "mean_b": 4.587,
+      "delta": -1.103,
+      "ci95": [
+        -1.171,
+        -1.034
+      ],
+      "p": 0.0,
+      "delta_full_panel": -1.241
+    },
+    {
+      "a": "SYSTEM-R",
+      "b": "GLM",
+      "common_judges": [
+        "Atla",
+        "GPT54",
+        "Gemini",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 3.323,
+      "mean_b": 4.227,
+      "delta": -0.904,
+      "ci95": [
+        -0.968,
+        -0.841
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.881
+    },
+    {
+      "a": "SYSTEM-R",
+      "b": "Gemini",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "GPT54",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 3.354,
+      "mean_b": 4.331,
+      "delta": -0.976,
+      "ci95": [
+        -1.038,
+        -0.913
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.985
+    },
+    {
+      "a": "SYSTEM-R",
+      "b": "Grok",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "GPT54",
+        "Gemini"
+      ],
+      "n_questions": 350,
+      "mean_a": 3.328,
+      "mean_b": 4.552,
+      "delta": -1.225,
+      "ci95": [
+        -1.297,
+        -1.155
+      ],
+      "p": 0.0,
+      "delta_full_panel": -1.206
+    },
+    {
+      "a": "SYSTEM-R",
+      "b": "Gemini+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "GPT54",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 3.354,
+      "mean_b": 4.604,
+      "delta": -1.25,
+      "ci95": [
+        -1.311,
+        -1.189
+      ],
+      "p": 0.0,
+      "delta_full_panel": -1.258
+    },
+    {
+      "a": "SYSTEM-R",
+      "b": "GPT+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Gemini",
+        "Grok"
+      ],
+      "n_questions": 330,
+      "mean_a": 3.489,
+      "mean_b": 4.724,
+      "delta": -1.236,
+      "ci95": [
+        -1.305,
+        -1.167
+      ],
+      "p": 0.0,
+      "delta_full_panel": -1.374
+    },
+    {
+      "a": "GPT",
+      "b": "GLM",
+      "common_judges": [
+        "Atla",
+        "Gemini",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.573,
+      "mean_b": 4.406,
+      "delta": 0.167,
+      "ci95": [
+        0.135,
+        0.2
+      ],
+      "p": 0.0,
+      "delta_full_panel": 0.36
+    },
+    {
+      "a": "GPT",
+      "b": "Gemini",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.571,
+      "mean_b": 4.507,
+      "delta": 0.064,
+      "ci95": [
+        0.035,
+        0.095
+      ],
+      "p": 0.0,
+      "delta_full_panel": 0.256
+    },
+    {
+      "a": "GPT",
+      "b": "Grok",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Gemini"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.628,
+      "mean_b": 4.76,
+      "delta": -0.131,
+      "ci95": [
+        -0.163,
+        -0.099
+      ],
+      "p": 0.0,
+      "delta_full_panel": 0.035
+    },
+    {
+      "a": "GPT",
+      "b": "Gemini+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.571,
+      "mean_b": 4.719,
+      "delta": -0.148,
+      "ci95": [
+        -0.185,
+        -0.112
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.018
+    },
+    {
+      "a": "GPT",
+      "b": "GPT+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Gemini",
+        "Grok"
+      ],
+      "n_questions": 330,
+      "mean_a": 4.588,
+      "mean_b": 4.724,
+      "delta": -0.136,
+      "ci95": [
+        -0.174,
+        -0.098
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.133
+    },
+    {
+      "a": "GLM",
+      "b": "Gemini",
+      "common_judges": [
+        "Atla",
+        "GPT54",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.156,
+      "mean_b": 4.253,
+      "delta": -0.098,
+      "ci95": [
+        -0.126,
+        -0.07
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.103
+    },
+    {
+      "a": "GLM",
+      "b": "Grok",
+      "common_judges": [
+        "Atla",
+        "GPT54",
+        "Gemini"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.216,
+      "mean_b": 4.471,
+      "delta": -0.255,
+      "ci95": [
+        -0.288,
+        -0.222
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.325
+    },
+    {
+      "a": "GLM",
+      "b": "Gemini+S",
+      "common_judges": [
+        "Atla",
+        "GPT54",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.156,
+      "mean_b": 4.513,
+      "delta": -0.357,
+      "ci95": [
+        -0.394,
+        -0.32
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.377
+    },
+    {
+      "a": "GLM",
+      "b": "GPT+S",
+      "common_judges": [
+        "Atla",
+        "Gemini",
+        "Grok"
+      ],
+      "n_questions": 349,
+      "mean_a": 4.406,
+      "mean_b": 4.688,
+      "delta": -0.282,
+      "ci95": [
+        -0.321,
+        -0.245
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.493
+    },
+    {
+      "a": "Gemini",
+      "b": "Grok",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "GPT54"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.314,
+      "mean_b": 4.48,
+      "delta": -0.167,
+      "ci95": [
+        -0.194,
+        -0.139
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.222
+    },
+    {
+      "a": "Gemini",
+      "b": "Gemini+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "GPT54",
+        "Grok"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.331,
+      "mean_b": 4.604,
+      "delta": -0.274,
+      "ci95": [
+        -0.311,
+        -0.239
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.274
+    },
+    {
+      "a": "Gemini",
+      "b": "GPT+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Grok"
+      ],
+      "n_questions": 330,
+      "mean_a": 4.507,
+      "mean_b": 4.683,
+      "delta": -0.176,
+      "ci95": [
+        -0.213,
+        -0.139
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.389
+    },
+    {
+      "a": "Grok",
+      "b": "Gemini+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "GPT54"
+      ],
+      "n_questions": 350,
+      "mean_a": 4.48,
+      "mean_b": 4.621,
+      "delta": -0.141,
+      "ci95": [
+        -0.17,
+        -0.111
+      ],
+      "p": 0.0,
+      "delta_full_panel": -0.052
+    },
+    {
+      "a": "Grok",
+      "b": "GPT+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Gemini"
+      ],
+      "n_questions": 331,
+      "mean_a": 4.758,
+      "mean_b": 4.805,
+      "delta": -0.047,
+      "ci95": [
+        -0.079,
+        -0.016
+      ],
+      "p": 0.0028,
+      "delta_full_panel": -0.167
+    },
+    {
+      "a": "Gemini+S",
+      "b": "GPT+S",
+      "common_judges": [
+        "Atla",
+        "GLM",
+        "Grok"
+      ],
+      "n_questions": 330,
+      "mean_a": 4.717,
+      "mean_b": 4.683,
+      "delta": 0.034,
+      "ci95": [
+        0.006,
+        0.062
+      ],
+      "p": 0.0202,
+      "delta_full_panel": -0.115
+    }
+  ],
+  "system_mean_reval": {
+    "SYSTEM-R": 3.346,
+    "GPT": 4.587,
+    "GLM": 4.227,
+    "Gemini": 4.331,
+    "Grok": 4.552,
+    "Gemini+S": 4.604,
+    "GPT+S": 4.72
+  },
+  "vca_pm1": {
+    "SYSTEM-R": 86.3,
+    "GPT": 34.1,
+    "GLM": 17.1,
+    "Gemini": 65.8,
+    "Grok": 52.4,
+    "Gemini+S": 70.2,
+    "GPT+S": 45.5
+  },
+  "spearman_reval_vca_all7": -0.179,
+  "spearman_reval_vca_without_system_r": 0.314
+}

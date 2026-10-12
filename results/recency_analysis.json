@@ -1,0 +1,44 @@
+{
+  "Ours": {
+    "n_unique_dois": 288,
+    "mean_year": 2017.0,
+    "pct_2020plus": 35.8,
+    "pct_2023plus": 20.8
+  },
+  "GemSearch": {
+    "n_unique_dois": 640,
+    "mean_year": 2016.1,
+    "pct_2020plus": 36.2,
+    "pct_2023plus": 15.2
+  },
+  "GPT54S": {
+    "n_unique_dois": 1018,
+    "mean_year": 2016.6,
+    "pct_2020plus": 47.8,
+    "pct_2023plus": 24.6
+  },
+  "Gemini": {
+    "n_unique_dois": 368,
+    "mean_year": 2014.1,
+    "pct_2020plus": 14.1,
+    "pct_2023plus": 0.8
+  },
+  "GPT54": {
+    "n_unique_dois": 502,
+    "mean_year": 2011.9,
+    "pct_2020plus": 11.2,
+    "pct_2023plus": 1.6
+  },
+  "Grok": {
+    "n_unique_dois": 465,
+    "mean_year": 2011.0,
+    "pct_2020plus": 9.9,
+    "pct_2023plus": 0.6
+  },
+  "GLM": {
+    "n_unique_dois": 321,
+    "mean_year": 2013.4,
+    "pct_2020plus": 18.1,
+    "pct_2023plus": 2.2
+  }
+}
