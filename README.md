@@ -11,7 +11,7 @@ This repository contains the dataset, model responses, evaluation scores, and an
 
 **REVAL** is a multi-judge evaluation framework anchored in objective citation verification via CrossRef. It combines a cross-evaluation graph (5 LLM judges, self-evaluation excluded), Verified Citation Accuracy (VCA) separating DOI existence from semantic correspondence, a 6-dimension domain-weighted rubric, and paired statistical testing with Bonferroni correction.
 
-**Key findings:** (1) The LLM-judge ranking is approximately inverted relative to the objective citation ranking across systems: models that fabricate 8–50% of DOIs score 0.88–1.24 REVAL points above the RAG system, which achieves 86% metadata-verified citation accuracy yet is ranked last by every judge. (2) A controlled perturbation study (identical answers, only the DOI strings replaced by surface-plausible non-resolving fakes) leaves composite judge scores TOST-equivalent — judges respond to the surface form of citations, not to whether they resolve. (3) The effect replicates with web search across two provider families: search halves DOI fabrication but leaves a substantial metadata-verification gap, and the judge panel assigns the search-augmented responses the highest scores of the study. RAGAS `answer_relevancy` reproduces the same blind spot.
+**Key findings:** (1) The system with the most verifiable citations — the RAG system, with 86% metadata-verified citation accuracy — is ranked last by every judge, while generalist models that fabricate 15–50% of their DOIs score 0.88–1.24 REVAL points above it; among the other conditions, judge scores track citation accuracy only loosely. (2) A controlled perturbation study (identical answers, only the DOI strings replaced by non-resolving fakes) shows that judges are severely under-sensitive to citation validity: format-preserving fakes lower the judges' Citation Verifiability score by only 0.21 points on a 1–5 scale, a ninth of their response to format-breaking fakes (1.91). (3) Web search, tested in two provider families, halves DOI fabrication but leaves a substantial metadata-verification gap. A relevance-oriented metric (RAGAs `answer_relevancy`) does not capture citation validity either.
 
 ## Question Types
 
@@ -213,11 +213,10 @@ This dataset and code are released under [CC-BY-NC-4.0](LICENSE).
 ## Citation
 
 ```bibtex
-@inproceedings{anonymous2026reval,
+@misc{anonymous2026reval,
   title     = {Grounding-Blind Judges: Multi-Judge Evaluation of Scientific {RAG} Reveals Systematic Divergence Between Subjective Scores and Citation Validity},
   author    = {Anonymous},
-  booktitle = {Proceedings of EMNLP 2026},
   year      = {2026},
-  note      = {Under review}
+  note      = {ACL Rolling Review, August 2026 cycle}
 }
 ```

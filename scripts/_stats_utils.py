@@ -11,6 +11,8 @@ Functions:
 """
 import math
 import random
+
+random.seed(42)  # deterministic bootstrap for scripts 50 and 51
 import statistics
 
 

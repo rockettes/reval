@@ -8,8 +8,8 @@
       "mean_reval": 3.346,
       "median_reval": 3.355,
       "std": 0.6544,
-      "ci_95_lo": 3.2772,
-      "ci_95_hi": 3.4122
+      "ci_95_lo": 3.2785,
+      "ci_95_hi": 3.4133
     },
     "GPT54": {
       "n_evaluations": 1400,
@@ -17,8 +17,8 @@
       "mean_reval": 4.5869,
       "median_reval": 4.7188,
       "std": 0.3449,
-      "ci_95_lo": 4.5505,
-      "ci_95_hi": 4.6226
+      "ci_95_lo": 4.551,
+      "ci_95_hi": 4.6224
     },
     "GLM": {
       "n_evaluations": 1400,
@@ -26,8 +26,8 @@
       "mean_reval": 4.2271,
       "median_reval": 4.2875,
       "std": 0.4089,
-      "ci_95_lo": 4.1834,
-      "ci_95_hi": 4.2694
+      "ci_95_lo": 4.1842,
+      "ci_95_hi": 4.2707
     },
     "Gemini": {
       "n_evaluations": 1400,
@@ -35,8 +35,8 @@
       "mean_reval": 4.3306,
       "median_reval": 4.425,
       "std": 0.3802,
-      "ci_95_lo": 4.29,
-      "ci_95_hi": 4.3707
+      "ci_95_lo": 4.2903,
+      "ci_95_hi": 4.371
     },
     "Grok": {
       "n_evaluations": 1400,
@@ -44,8 +44,8 @@
       "mean_reval": 4.5524,
       "median_reval": 4.65,
       "std": 0.3129,
-      "ci_95_lo": 4.5197,
-      "ci_95_hi": 4.5847
+      "ci_95_lo": 4.5186,
+      "ci_95_hi": 4.5841
     },
     "GemSearch": {
       "n_evaluations": 1400,
@@ -53,8 +53,8 @@
       "mean_reval": 4.6044,
       "median_reval": 4.65,
       "std": 0.2435,
-      "ci_95_lo": 4.5787,
-      "ci_95_hi": 4.6292
+      "ci_95_lo": 4.5779,
+      "ci_95_hi": 4.6289
     }
   },
   "per_dim_means": {
@@ -362,8 +362,8 @@
       "baseline_mean": 4.2271,
       "delta": -0.8812,
       "delta_ci_95": [
-        -0.9494,
-        -0.8134
+        -0.9481,
+        -0.8131
       ],
       "cohens_d": -1.615,
       "cliffs_delta": -0.7411,
@@ -378,8 +378,8 @@
       "baseline_mean": 4.3306,
       "delta": -0.9846,
       "delta_ci_95": [
-        -1.0503,
-        -0.9184
+        -1.0512,
+        -0.9186
       ],
       "cohens_d": -1.8399,
       "cliffs_delta": -0.8052,
@@ -394,8 +394,8 @@
       "baseline_mean": 4.5524,
       "delta": -1.2064,
       "delta_ci_95": [
-        -1.2721,
-        -1.1385
+        -1.2733,
+        -1.1397
       ],
       "cohens_d": -2.3522,
       "cliffs_delta": -0.9098,
