@@ -1,4 +1,4 @@
-# Internal working material — must never reach the anonymous release
+# Internal working material — must never reach the public release
 .DS_Store
 __pycache__/
 *.pyc

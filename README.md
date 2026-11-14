@@ -3,7 +3,7 @@
 This repository contains the dataset, model responses, evaluation scores, and analysis scripts accompanying the paper:
 
 > **Grounding-Blind Judges: Multi-Judge Evaluation of Scientific RAG Reveals Systematic Divergence Between Subjective Scores and Citation Validity**
-> Anonymous Authors, 2026.
+> Bruno P. Roquette and Alexandre Cristovão Maiorano. EACL 2027.
 
 ## Overview
 
@@ -55,7 +55,7 @@ This repository contains the dataset, model responses, evaluation scores, and an
 │   ├── stats_crossref.json            # CrossRef DOI verification (input to scripts 51 and 64)
 │   ├── vca_70b_results.json           # VCA 2.0 semantic validation (Llama 3.3 70B)
 │   ├── vca_final_5way.json            # VCA strict + VCA±1yr (all systems)
-│   ├── ragas_answer_relevancy.json    # RAGAS comparison (Llama 3.3 70B)
+│   ├── ragas_answer_relevancy.json    # RAGAs comparison (Llama 3.3 70B)
 │   ├── human_vca_300_results.json     # Human VCA validation (N=300, 2 annotators; κ_hh=0.96, κ_hv=0.81)
 │   ├── human_vca_annotator1_300.csv   # Annotator 1: 300 blind stratified DOIs
 │   ├── human_vca_annotator2_300.csv   # Annotator 2: 300 blind stratified DOIs
@@ -85,13 +85,13 @@ This repository contains the dataset, model responses, evaluation scores, and an
     ├── 56_error_analysis.py           # Error pattern analysis
     ├── 64_vca_llm_70b.py              # VCA semantic validation (Llama 3.3 70B)
     ├── 68_vca_final.py                # Combined VCA strict + VCA±1yr
-    ├── 69_ragas_answer_relevancy.py   # RAGAS answer_relevancy comparison
+    ├── 69_ragas_answer_relevancy.py   # RAGAs answer_relevancy comparison
     ├── 70_human_vca_score.py          # Human VCA validation (Cohen's κ)
     ├── 71_perturbation_study.py       # Controlled citation-perturbation study (both arms)
     ├── 72_gpt54_search_ablation.py    # GPT-5.4 + web search generation
     ├── 73_gpt54search_pipeline.py     # GPT+S CrossRef + VCA + judging pipeline
     ├── 80_bootstrap_cis.py            # 95% bootstrap CIs (REVAL, VCA)
-    ├── 81_pairwise_significance.py    # Pairwise comparisons (Table 10)
+    ├── 81_pairwise_significance.py    # Pairwise comparisons (Table 8)
     ├── 83_recency_analysis.py         # Citation recency (all seven conditions)
     ├── 84_weight_sensitivity.py       # 10,000 random rubric weightings
     ├── 85_judge_ablation.py           # All judge subsets
@@ -203,7 +203,7 @@ No reported number is affected.
 - All bootstrap scripts use `random.seed(42)` for deterministic results.
 - CrossRef API uses the Polite Pool (User-Agent with mailto). No API key needed.
 - VCA semantic validation (script 64) requires a Groq API key (see `.env.example`).
-- RAGAS comparison (script 69) requires Groq + OpenAI API keys.
+- RAGAs comparison (script 69) requires Groq + OpenAI API keys.
 - Dependencies: `pip install requests ragas langchain-groq langchain-openai datasets`.
 
 ## License
@@ -213,10 +213,10 @@ This dataset and code are released under [CC-BY-NC-4.0](LICENSE).
 ## Citation
 
 ```bibtex
-@misc{anonymous2026reval,
+@inproceedings{roquette2027reval,
   title     = {Grounding-Blind Judges: Multi-Judge Evaluation of Scientific {RAG} Reveals Systematic Divergence Between Subjective Scores and Citation Validity},
-  author    = {Anonymous},
-  year      = {2026},
-  note      = {ACL Rolling Review, August 2026 cycle}
+  author    = {Roquette, Bruno P. and Maiorano, Alexandre Cristov{\~a}o},
+  booktitle = {Proceedings of the 2027 Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027)},
+  year      = {2027}
 }
 ```
